@@ -29,3 +29,4 @@ Pedro Moura ([pedrorpmoura@gmail.com](mailto:pedrorpmoura@gmail.com))
 
 ## Regime de Avaliação
 
+Teste 50% + Trabalho prático 50%
