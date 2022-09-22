@@ -35,3 +35,19 @@
 ![](/docs/aliases.png)
 
 12. Abram novamente a linha de comandos, e tentem executar o comando `python` outra vez.
+
+
+### MacOS
+
+1. Fazer download do instalador do Python3 (https://www.python.org/downloads/).
+
+2. Abrir o instalador e seguir os passos de instalação.
+
+3. Abrir o terminal, e verificar se o comando `python3` funciona.
+
+
+## Instalação do Visual Studio Code
+
+1. Fazer o download e seguir os passos do instalador (https://code.visualstudio.com/).
+
+
