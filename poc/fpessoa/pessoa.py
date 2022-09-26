@@ -17,6 +17,7 @@ def import_words(text, words_counter):
     
     return words_counter
 
+
 def makeImage(text):
     alice_mask = np.array(Image.open("fpessoa-mask.png"))
 
@@ -28,6 +29,7 @@ def makeImage(text):
     plt.imshow(wc, interpolation="bilinear")
     plt.axis("off")
     plt.show()
+
 
 words_counter = {}
 path = "poemas/"
