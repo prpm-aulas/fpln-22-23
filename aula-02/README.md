@@ -69,8 +69,6 @@
    
    Por exemplo, imaginemos que o nome do ficheiro introduzido foi `mensagem`. Se o formato for YAML, o programa deverá criar um ficheiro chamado `mensagem.yml`. Se for JSON, o ficheiro deverá chamar-se `mensagem.json`.
 
-
-
 ## Extra
 
 1. Alguns parâmetros podem ser opcionais, i.e. o utilizador pode decidir não escrever nada. Por exemplo,
@@ -86,3 +84,12 @@
    Melhore o `gerador.py` de forma a que consiga lidar com *inputs* inválidos ou incompletos.
 
 2. Implemente também o formato XML.
+   
+   `mensagem.xml`
+   
+   ```xml
+   <obra data="1934/12/01">
+       <titulo>A Mensagem</titulo>
+       <autor>Fernando Pessoa</autor>
+   </obra>
+   ```
