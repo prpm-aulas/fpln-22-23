@@ -32,6 +32,7 @@ Pedro Moura ([pedrorpmoura@gmail.com](mailto:pedrorpmoura@gmail.com))
 | MMC       | pg49172    | Daniela Quintas Brasileiro        | pg49172@alunos.uminho.pt |
 | MMC       | pg49177    | Luís Filipe Macedo Silva          | luis.fmsilva@hotmail.com |
 | MMC       | pg49183    | Andreia Filipa de Araújo Ferreira | a92318@alunos.uminho.pt  |
+|           |            |                                   |                          |
 | MHD       | pg51176    | Ana Filipa Oliveira Santana       | pg51176@alunos.uminho.pt |
 | MHD       | pg51177    | Carlos Henrique de Souza Arantes  | pg51177@alunos.uminho.pt |
 | MHD       | pg49364    | Carole Amorim Durães              | pg49364@alunos.uminho.pt |
