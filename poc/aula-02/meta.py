@@ -20,7 +20,7 @@ if formato == "YAML":
 else:
 	extensao = ".json"
 
-	f = open(nome_ficheiro + extensao, "w")
+	f = open(nome_ficheiro + extensao)
 
 	f.write("{\n")
 	f.write("\t\"titulo\": \"" + titulo + "\",\n")
