@@ -71,7 +71,13 @@ Pedro Moura ([pedrorpmoura@gmail.com](mailto:pedrorpmoura@gmail.com))
 
 **Aula 02 - 30/09/2022**
 
-- TBA
+- Criação de um gerador de ficheiros com diferentes formatos a partir de _inputs_
+
+- Variáveis
+
+- Tipos: _strings_ e números
+
+- Estruturas condicionais
 
 
 
