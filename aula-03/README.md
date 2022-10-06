@@ -97,15 +97,14 @@
    No caso de ser XML:
    ```xml
    <obra data="1934/12/01">
-      
+      <titulo>A Mensagem</titulo>
+      <autor>Fernando Pessoa</autor>
+      <co-autores>
+         <co-autor>Pedro</co-autor>
+         <co-autor>Tiago</co-autor>
+         <co-autor>Francisca</co-autor>
+         <co-autor>Carolina</co-autor>
+         <co-autor>Guilherme</co-autor>
+      </co-autores>
    </obra>
-   <titulo>A Mensagem</titulo>
-   <autor>Fernando Pessoa</autor>
-   <co-autores>
-      <co-autor>Pedro</co-autor>
-      <co-autor>Tiago</co-autor>
-      <co-autor>Francisca</co-autor>
-      <co-autor>Carolina</co-autor>
-      <co-autor>Guilherme</co-autor>
-   </co-autores>
    ```
