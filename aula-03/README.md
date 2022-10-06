@@ -64,40 +64,48 @@
 4. Melhore a formatação do campo dos co-autores nos ficheiros gerados.
    No caso do ficheiro ser YAML, o resultado deverá ser o seguinte:
 
-```yaml
-titulo: A Mensagem
-autor: Fernando Pessoa
-co-autores:
-  - Pedro
-  - Tiago
-  - Francisca
-  - Carolina
-  - Guilherme
-data: 1934/12/01
+   ```yaml
+   titulo: A Mensagem
+   autor: Fernando Pessoa
+   co-autores:
+     - Pedro
+     - Tiago
+     - Francisca
+     - Carolina
+     - Guilherme
+   data: 1934/12/01
 
 
-```
+   ```
 
-```yaml
-titulo: A Mensagem
-autor: Fernando Pessoa
-co-autores:
-  - Pedro
-  - Tiago
-  - Francisca
-  - Carolina
-  - Guilherme
-data: 1934/12/01
-```
+   No caso de ser JSON:
+   ```json
+   {
+      "titulo": "A Mensagem",
+      "autor": "Fernando Pessoa",
+      "co-autores": [
+         "Pedro",
+         "Tiago",
+         "Francisca",
+         "Carolina",
+         "Guilherme" 
+      ],
+      "data": "1934/12/01"
+   }
+   ```
 
-```yaml
-titulo: A Mensagem
-autor: Fernando Pessoa
-co-autores:
-  - Pedro
-  - Tiago
-  - Francisca
-  - Carolina
-  - Guilherme
-data: 1934/12/01
-```
+   No caso de ser XML:
+   ```xml
+   <obra data="1934/12/01">
+      
+   </obra>
+   <titulo>A Mensagem</titulo>
+   <autor>Fernando Pessoa</autor>
+   <co-autores>
+      <co-autor>Pedro</co-autor>
+      <co-autor>Tiago</co-autor>
+      <co-autor>Francisca</co-autor>
+      <co-autor>Carolina</co-autor>
+      <co-autor>Guilherme</co-autor>
+   </co-autores>
+   ```
