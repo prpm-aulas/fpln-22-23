@@ -83,7 +83,7 @@ Pedro Moura ([pedrorpmoura@gmail.com](mailto:pedrorpmoura@gmail.com))
 
 **Aula 03 - 07/10/2022**
 
-- TBA
+- Estruturas cíclicas (ciclo _while_)
 
 
 
