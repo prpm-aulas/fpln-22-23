@@ -7,13 +7,14 @@ limite = 5
 co_autores = ""
 numero_co_autores = 0
 
-while numero_co_autores < 5:
-    co_autor = input(f"Insira um co-autor ({numero_co_autores}/{limite}: ")
+while numero_co_autores < limite:
+    co_autor = input(f"Insira um co-autor ({numero_co_autores}/{limite}): ")
     if co_autor == "":
         break
 
     co_autores = co_autores + co_autor + "; "
-    numero_co_autores += 1
+    numero_co_autores = numero_co_autores + 1
+    # numero_co_autores += 1
 
 
 if numero_co_autores == limite:
