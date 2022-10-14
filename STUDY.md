@@ -1,7 +1,7 @@
 # Páginas com referências da linguagem Python
 
 - https://docs.python.org/3/library/index.html
-- https://www.w3schools.com/python/python_strings_exercises.asp
+- https://www.w3schools.com/python/default.asp
 
 # Páginas com exercícios para treinarem
 
