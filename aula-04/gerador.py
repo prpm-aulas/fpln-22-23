@@ -3,27 +3,19 @@ titulo = input("Insira o título: ")
 autor = input("Insira o autor: ")
 
 limite = 5
-co_autores = ""
+co_autores = []
 numero_co_autores = 0
 
-while numero_co_autores < limite:
+while numero_co_autores < 5:
     co_autor = input(f"Insira um co-autor ({numero_co_autores}/{limite}): ")
     if co_autor == "":
         break
 
-    co_autores = co_autores + co_autor + "; "
-    numero_co_autores = numero_co_autores + 1
-    # numero_co_autores += 1
-
+    co_autores.append(co_autor)
+    numero_co_autores += 1
 
 if numero_co_autores == limite:
     print(f"AVISO: Limite de co-autores atingido! ({numero_co_autores}/{limite})")
-
-# Outra abordagem
-# co_autor = input("Insira um co-autor: ")
-# while co_autor != "":
-#     co_autores = co_autores + co_autor + "; "
-#     co_autor = input("Insira um co-autor: ")
 
 data = input("Insira a data: ")
 
@@ -37,8 +29,12 @@ if formato == "YAML" or formato == "yaml" or formato == "":
     f = open(ficheiro + "." + extensao, 'w')
     f.write("titulo: " + titulo + "\n")
     f.write("autor: " + autor + "\n")
-    if co_autores != "":
-        f.write("co-autores: " + co_autores + "\n")
+
+    if co_autores != []:
+        f.write("co-autores:\n")
+        for co_autor in co_autores:
+            f.write("\t- " + co_autor)
+
     f.write("data: " + data + "\n")
     f.close()
 
@@ -48,8 +44,18 @@ elif formato == "JSON" or formato == "json":
     f.write("{\n")
     f.write('\t"titulo": "' + titulo + '",\n')
     f.write('\t"autor": "' + autor + '",\n')
-    if co_autores != "":
-        f.write('\t"co-autores": "' + co_autores + '",\n')
+
+    if co_autores != []:
+        f.write('\t"co-autores": [\n')
+
+        i = 0
+        while i < len(co_autores) - 1:
+            f.write(f'\t\t"{co_autores[i]}",\n')
+            i += 1
+
+        f.write(f'\t\t"{co_autores[i]}"\n')
+        f.write('\t],\n')
+
     f.write('\t"data": "' + data + '"\n')
     f.write("}\n")
     f.close()
