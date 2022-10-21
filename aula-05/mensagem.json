@@ -1,0 +1,10 @@
+{
+	"titulo": "A mensagem",
+	"autor": "F pessoa",
+	"co_autores": [		"Pedro",
+		"João",
+		"Carlos",
+		"Francisca"
+	],
+	"data": "12/12/2022"
+}
