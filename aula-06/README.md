@@ -5,6 +5,7 @@
 O ficheiro `texto.txt` contém um exemplo de um texto para ser utilizado nos próximos exercícios.
 
 1. Crie uma função `conta` que recebe como argumento uma `string` que representa o nome de um ficheiro, lê o conteúdo desse ficheiro, e devolva o número de palavras que estão nesse conteúdo.
+> Sugestão: Utilizar a função das *strings* `split`
 
 Exemplo:
 ```python
@@ -20,6 +21,7 @@ print(n)
 
 3. Crie uma função `limpa`, que recebe uma `string` como argumento, remove todos os sinais de pontuação do argumento, e retorna então uma nova `string` sem os sinais de pontuação.
 Use esta função `limpa` para melhorar também a função `conta` de modo a evitar a ocorrência de palavras com sinais.
+> Sugestão: Utilizar a função das *strings* `replace`
 
 Exemplo:
 ```python
