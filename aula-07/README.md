@@ -102,7 +102,7 @@ plt.show()
 ```
 
 Isto gera a seguinte figura:
-![](docs/exemplo_bar.png)
+![](docs/exemplo_pizza.png)
 
 5. Melhore o programa de forma a que o utilizador possa escolher o que desenhar: a nuvem de palavras, o gráfico de barras, o gráfico circular, ou todas as opções.
 
