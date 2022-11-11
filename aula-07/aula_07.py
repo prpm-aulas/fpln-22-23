@@ -1,6 +1,8 @@
 # importar a função WordCloud da biblioteca wordcloud
 from wordcloud import WordCloud
 
+import matplotlib.pyplot as plt
+
 def limpa(texto):
 	sinais = ".,!?:…"
 	# sinais = [".", ",", "!", "?", ":"]
@@ -54,6 +56,8 @@ def conta(nome_ficheiro):
 def dicionario_para_listas(dicionario):
 	chaves = []
 	valores = []
+
+	# vamos criando as duas listas à medida que percorremos o dicionário
 	for k in dicionario:
 		chaves.append(k)
 		valores.append(dicionario[k])
@@ -80,17 +84,26 @@ def desenha_nuvem(dicionario_ocorrencias):
 
 def desenha_grafico_de_barras(dicionario_ocorrencias, limite):
 	xx, yy = dicionario_para_listas(dicionario_ocorrencias)
+	
+	# ordenar as duas listas
 	ordena_duas_listas(yy, xx)
 
+	# ir buscar os últimos "n" elementos das listas
 	xx = xx[-limite:]
 	yy = yy[-limite:]
 
 	plt.bar(xx, yy)
 
-	# plt.xticks(range(max(yy) + 1))
+	# adiciona um título ao gráfico
 	plt.title("Distribuição de palavras")
-	plt.xlabel("Ocorrências")
-	plt.ylabel("Palavras")
+
+	# adiciona um nome ao eixo dos xx
+	plt.xlabel("Palavras")
+
+	# adiciona um nome ao eixo dos yy
+	plt.ylabel("Nº Ocorrências")
+
+	# desenha o gráfico
 	plt.show()
 
 
@@ -106,11 +119,8 @@ def desenha_bolo(dicionario_ocorrencias, limite):
 	plt.show()
 
 
-
-import sys
-
-args = sys.argv
-print(args)
+d = conta("texto.txt")
+desenha_bolo(d, 10)
 
 
 
