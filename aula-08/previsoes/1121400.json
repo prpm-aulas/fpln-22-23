@@ -1,0 +1,64 @@
+{
+    "owner": "IPMA",
+    "country": "PT",
+    "data": [
+        {
+            "precipitaProb": "0.0",
+            "tMin": "10.2",
+            "tMax": "17.7",
+            "predWindDir": "E",
+            "idWeatherType": 1,
+            "classWindSpeed": 1,
+            "longitude": "-7.4200",
+            "forecastDate": "2022-11-10",
+            "latitude": "39.2900"
+        },
+        {
+            "precipitaProb": "0.0",
+            "tMin": "10.6",
+            "tMax": "17.3",
+            "predWindDir": "E",
+            "idWeatherType": 1,
+            "classWindSpeed": 2,
+            "longitude": "-7.4200",
+            "forecastDate": "2022-11-11",
+            "latitude": "39.2900"
+        },
+        {
+            "precipitaProb": "2.0",
+            "tMin": "12.1",
+            "tMax": "18.6",
+            "predWindDir": "E",
+            "idWeatherType": 2,
+            "classWindSpeed": 2,
+            "longitude": "-7.4200",
+            "forecastDate": "2022-11-12",
+            "latitude": "39.2900"
+        },
+        {
+            "precipitaProb": "16.0",
+            "tMin": "11.7",
+            "tMax": "17.6",
+            "predWindDir": "SE",
+            "idWeatherType": 3,
+            "classWindSpeed": 1,
+            "longitude": "-7.4200",
+            "forecastDate": "2022-11-13",
+            "latitude": "39.2900"
+        },
+        {
+            "precipitaProb": "86.0",
+            "tMin": "13.0",
+            "tMax": "16.1",
+            "predWindDir": "SW",
+            "idWeatherType": 9,
+            "classWindSpeed": 1,
+            "longitude": "-7.4200",
+            "forecastDate": "2022-11-14",
+            "classPrecInt": 2,
+            "latitude": "39.2900"
+        }
+    ],
+    "globalIdLocal": 1121400,
+    "dataUpdate": "2022-11-10T23:31:04"
+}
