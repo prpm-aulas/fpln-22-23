@@ -17,6 +17,16 @@ def busca_previsoes(codigo):
 
     return previsoes['data']
 
+
+def busca_previsao_dia(codigo, dia):
+    f = open(f"previsoes/{codigo}.json")
+    previsoes = json.load(f)
+    f.close()
+
+    return previsoes['data'][dia - 1]
+    
+
+
 def imprime_previsoes(previsoes):
     for previsao in previsoes:
         data = previsao["forecastDate"]
@@ -32,17 +42,60 @@ def imprime_previsoes(previsoes):
         print(f"Probabilidade de precipitação: {prob_chuva}%")
         print()
 
+
+def imprime_ajuda():
+    print("Utilização:")
+    print("  python3 meteo.py [comando] [argumentos...]")
+    print()
+    print("  Comando:")
+    print("    min - Imprimir as localidades com a temperatura mínima mais alta e mais baixa")
+    print("    max - Imprimir as localidades com a temperatura máxima mais alta e mais baixa")
+    print("    [local] [dia] - Local do qual queremos ir buscar as previsões (obrigatório),")
+    print("                    podendo passar um dia em específico") 
+    print("                      Ex.: Braga 1")
+
+
+
 # lista de argumentos, exceto o nome do programa
 args = sys.argv[1:]
+n_args = len(args)
 
-if args == []:
+if n_args == 0:
     print("Erro: Não foi introduzido um local.")
     # parar o programa
     exit()
 
-# extrair o local
-local = args[0]
+elif n_args == 1:
+    # verificar se o argumento é "ajuda"
+    if args[0] == "ajuda":
+        imprime_ajuda()
+        exit()
 
-codigo = busca_codigo(local)
-previsoes = busca_previsoes(codigo)
-imprime_previsoes(previsoes)
+    # if args[0] == "help":
+    #     print_help()
+    #     exit()
+
+    # apenas foi passado um local
+    local = args[0]
+
+    codigo = busca_codigo(local)
+    previsoes = busca_previsoes(codigo)
+    imprime_previsoes(previsoes)
+
+elif n_args == 2:
+    # foram passados um local e uma dia
+    local = args[0]
+
+    dia = int(args[1])
+    if dia < 1 or dia > 5:
+        print("Erro: Dia inválido (tem de ser: 1-5).")
+        exit()
+    
+    codigo = busca_codigo(local)
+    previsao = busca_previsao_dia(codigo, dia)
+    imprime_previsoes([previsao])
+
+
+
+
+
