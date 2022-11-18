@@ -155,10 +155,12 @@ Pedro Moura ([pedrorpmoura@gmail.com](mailto:pedrorpmoura@gmail.com))
 
 **Aula 15 - 13/01/2023**
 
-- TBA
+- Teste
 
 
 
 ## Regime de Avaliação
 
-Teste 50% + Trabalho prático 50%
+Teste (50%) - 13 Janeiro
+
+Trabalho Prático (50%) - 20 Janeiro
