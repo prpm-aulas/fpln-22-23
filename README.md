@@ -32,14 +32,14 @@ Pedro Moura ([pedrorpmoura@gmail.com](mailto:pedrorpmoura@gmail.com))
 | MMC       | pg49172    | Daniela Quintas Brasileiro        | pg49172@alunos.uminho.pt |
 | MMC       | pg49177    | Luís Filipe Macedo Silva          | luis.fmsilva@hotmail.com |
 | MMC       | pg49183    | Andreia Filipa de Araújo Ferreira | a92318@alunos.uminho.pt  |
-| MMC       | pg49174    | Diogo Rosário                     | |
-| MMC       | pg34321    | Renata Magalhães                  ||
-| MMC       | pg50948    | Tiago Lemos                       ||
-| MMC       | pg49173    | Daniela Arruda                    ||
-| MMC       | pg49145    | Ângela Bastos                     ||
-| MMC       | pg49182    | Rui Silva ||
-| MMC       | pg49168    | Bárbara Silva ||
-| MMC       | pg48642    | Piedoso Cavamba ||
+| MMC       | pg49174    | Diogo Rosário                     | pg49174@alunos.uminho.pt |
+| MMC       | pg34321    | Renata Magalhães                  | pg34321@alunos.uminho.pt |
+| MMC       | pg50948    | Tiago Lemos                       | pg50948@alunos.uminho.pt |
+| MMC       | pg49173    | Daniela Arruda                    | pg49173@alunos.uminho.pt |
+| MMC       | pg49145    | Ângela Bastos                     | pg49145@alunos.uminho.pt |
+| MMC       | pg49182    | Rui Silva                         | pg49182@alunos.uminho.pt |
+| MMC       | pg49168    | Bárbara Silva                     | pg49168@alunos.uminho.pt |
+| MMC       | pg48642    | Piedoso Cavamba                   | pg48642@alunos.uminho.pt |
 |           |            |                                   |                          |
 | MHD       | pg51176    | Ana Filipa Oliveira Santana       | pg51176@alunos.uminho.pt |
 | MHD       | pg51177    | Carlos Henrique de Souza Arantes  | pg51177@alunos.uminho.pt |
