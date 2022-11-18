@@ -1,0 +1,1308 @@
+Nome::Energia (kcal)::Lípidos::Hidratos de carbono::Proteínas
+Abacate::114::10.5::2.3::1.1
+Abóbora cristalizada::293::0.2::72.4::0
+Abóbora crua::11::0.2::1.7::0.3
+Abrótea cozida::79::0.1::0::19.4
+Abrótea crua::70::0.1::0::17.2
+Açafrão::353::5.9::61.5::11.4
+Açafrão-da-índia seco::312::7::44.1::6.7
+Acelga crua::23::0.2::2.7::1.8
+Açorda::104::4::13.1::3.3
+Açorda à alentejana::95::3.3::12.3::3.5
+Açorda de bacalhau::69::3.5::5.7::3.4
+Açorda de marisco::51::1.2::5.4::4.5
+Açorda de ovo::108::4::14::3.6
+Açúcar amarelo::390::0::97.5::0
+Açúcar branco::397::0::99.3::0
+Agrião cru::29::0.9::0.4::3.4
+Água mineral natural gaseificada, "Água Castello"::0::0::0::0
+Água mineral natural gaseificada, "Vimeiro"::0::0::0::0
+Água mineral natural gasocarbónica, "Pedras Salgadas"::0::0::0::0
+Água mineral natural, "Luso"::0::0::0::0
+Aguardente::308::0::0::0
+Água, rede pública de abastecimento (Lisboa)::0::0::0::0
+Aipo cru::15::0.1::1.5::1.1
+Alcachofra cozida::46::0.2::5.3::3
+Alcachofra crua::51::0.2::6.8::3
+Alcaparras (picles)::44::0.9::4.9::2.4
+Alecrim fresco::115::4.4::13.5::1.4
+Alecrim, seco::377::15.2::46.4::4.9
+Alface::15::0.2::0.8::1.8
+Alface roxa::15::0.2::1.4::1.3
+Alheira cozida sem adição de sal::269::14::26.8::8.3
+Alheira crua::309::18.1::27.4::8.3
+Alheira grelhada sem adição de sal::302::17::28.5::8.1
+Alho cru::72::0.6::11.3::3.8
+Alho em pó::310::1.2::52.3::17.6
+Alho-francês cru::26::0.3::2.9::1.8
+Almôndegas de porco::234::8.9::29.2::8
+Almôndegas de vaca::252::17.4::6.4::17
+Almôndegas de vaca e porco ::243::16.7::3.8::19.2
+Amêijoa aberta ao natural sem sal::131::1.8::5.2::23.4
+Amêijoa crua::65::0.9::2.6::11.7
+Amêijoas à Bulhão Pato::89::2.5::3.2::12.8
+Ameixa branca::40::0.2::7.8::0.6
+Ameixa, conserva em calda de açúcar::115::0.2::27.5::0.2
+Ameixa encarnada::41::0.2::7.4::0.8
+Ameixa rainha Cláudia::57::0.1::11.8::0.8
+Ameixa seca::198::0.3::37.8::2.9
+Amêndoa, miolo, com pele::643::56::7.2::21.6
+Amêndoa, miolo, torrada, sem pele::650::56.8::7.1::21.6
+Amendoim, miolo::589::47.7::10.1::25.4
+Amendoim, miolo, torrado com sal::614::51.8::6.6::26.2
+Amendoim, miolo, torrado sem sal::605::49.6::9.5::25.6
+Amora::43::0.9::4.5::1.4
+Ananás ::48::0.2::9.5::0.5
+Ananás, conserva em calda de açúcar::98::0.1::23.2::0.2
+Ananás desidratado::363::1.5::72.8::3.8
+Anchova, conserva em óleo, escorrido::191::10::0::25.2
+Anona::82::0.4::16.8::1.7
+Anona desidratada::351::1.7::71.6::7.2
+Arroz agulha cru::347::0.4::78.1::6.7
+Arroz à valenciana::111::5.3::7.7::7.6
+Arroz carolino branqueado cru::357::0.5::79.6::7.4
+Arroz cozido simples::125::0.2::28::2.5
+Arroz de bacalhau::90::1.6::15.3::3.1
+Arroz de bacalhau com margarina::91::2.1::12.2::5.4
+Arroz de cabidela::105::1.9::12.2::9.4
+Arroz de cenoura::201::2.3::41::3.5
+Arroz de cenoura com azeite::127::4.2::19.9::1.8
+Arroz de ervilhas::85::0.2::18::2.3
+Arroz de feijão::139::4.4::20.8::3.1
+Arroz de frango::205::7.6::25.2::8.4
+Arroz de frango com feijão e chouriço::116::3.4::8.8::10.9
+Arroz de frango malandrinho à moda de Monção::132::5.8::9.3::10.5
+Arroz de gambas::94::3.4::8.8::6.9
+Arroz de lulas::66::2.1::6.7::4.8
+Arroz de manteiga::265::7.7::44.4::3.8
+Arroz de marisco::72::1.4::8.2::6.5
+Arroz de pato::115::4.2::8.4::10.8
+Arroz de peixe::125::3.7::15.5::7
+Arroz de peixe com ervilhas::110::0.8::19.8::4.9
+Arroz de polvo com azeite::127::4.6::10.9::10.2
+Arroz de polvo com tomate ::128::7.1::10::5.7
+Arroz de polvo com tomate e vinho::90::3.6::6.9::6.5
+Arroz de tamboril::87::3.8::7.1::5.7
+Arroz de tamboril malandrinho::67::0.2::10::5.9
+Arroz de tomate com azeite::129::4.2::20.1::2
+Arroz de tomate com margarina::122::3.4::20.2::2
+Arroz de tomate malandrinho::132::6::16.8::1.9
+Arroz doce::233::3.8::45.2::4.4
+Arroz integral cru::351::2.5::71.6::8.6
+Atum conserva em óleo::214::13::0::24.3
+Atum de cebolada::135::9::2.6::9
+Atum fresco cru::141::4.9::0::24.1
+Atum fresco grelhado::166::5.8::0::28.4
+Avelã, miolo::689::66.3::6::14
+Azeite (4 marcas)::899::99.9::0::0
+Azeitona::180::18.5::0::1.4
+Bacalhau à Brás::164::10.1::8.3::9.5
+Bacalhau à Brás com azeite::195::14.7::6.5::8.7
+Bacalhau à Brás com azeite e azeitonas::93::3.6::6.5::8
+Bacalhau à Gomes de Sá::139::6.3::13.1::6.7
+Bacalhau à Gomes de Sá, com azeite::160::10.4::7.4::8.6
+Bacalhau assado no forno com azeite::136::4.9::0.8::20.8
+Bacalhau com natas::98::2.6::9.2::9
+Bacalhau com natas, com queijo ralado::167::12.6::7.6::5.3
+Bacalhau cozido::106::0.1::0::26.2
+Bacalhau fresco cozido::84::0.8::0::19.1
+Bacalhau fresco cru::76::0.5::0::17.8
+Bacalhau grelhado::123::0.2::0::30.2
+Bacalhau seco e salgado, demolhado cru::80::0.4::0::19
+Baço de porco::107::3.8::0.4::17.8
+Bacon::367::34.6::0::13.8
+Bacon, grelhado sem adição de sal::372::31.5::0::22.2
+Bagas goji secas::303::2.8::51.8::11.2
+Banana::104::0.4::21.8::1.6
+Banha de porco::896::99.5::0::0
+Base em pó para bebida de ananás::369::0::89.5::0
+Base em pó para bebida de laranja::375::0::88.9::0
+Batata assada com pele, sem sal (só a polpa)::90::0::19.2::2.5
+Batata assada no forno::159::4.8::24.8::3.2
+Batata cozida::87::0::18.5::2.4
+Batata crua::90::0::19.2::2.5
+Batata doce assada::123::0::28.3::1
+Batata doce crua::123::0::28.3::1
+Batata estufada com cebola, azeite e óleo alimentar::97::3.1::14.5::2
+Batata, fécula::345::0.3::85::0.5
+Batata frita caseira (em palitos)::227::10.8::27.6::3.7
+Batata frita, de pacote (em rodelas)::543::38.1::39::5.7
+Bebida à base de soja com açúcar, com cálcio, sal e aromas::53::2.1::4.2::3.6
+Bebida à base de soja com açúcar, sal e aromas::61::2.2::6.4::3.8
+Bebida à base de soja natural, sem açúcar e sem sal::37::2.2::0.4::3.7
+Bebida refrigerante, cola::36::0::9::0
+Bebida refrigerante, cola sem açúcar::0::0::0::0
+Bebida refrigerante, gasosa::28::0::7::0
+Bebida refrigerante, laranja::42::0::10.5::0
+Beldroega crua::13::0::1::1
+Berbigão aberto ao natural sem sal::118::1.4::5.4::21
+Berbigão cru::59::0.7::2.7::10.5
+Beringela crua::21::0.2::2.4::1.1
+Beringela grelhada com azeite::99::7.1::4.3::2
+Besugo cru::102::2.7::0::19.5
+Beterraba (raiz) cozida sem sal::23::0::3.4::1
+Beterraba (raiz) crua::23::0::3.5::1
+Bife de atum fresco, estufado com azeite e vinho::196::10.1::0.2::23.1
+Bife de cavalo, alcatra crua::116::3.5::0::21.1
+Bife de cavalo, alcatra frita com manteiga::177::9.3::0::23.3
+Bife de cavalo, alcatra frita com margarina::176::9.2::0::23.3
+Bife de cavalo, alcatra frita, sem molho::147::5.4::0::24.7
+Bife de espadarte, estufado com azeite e vinho::152::8.1::0.4::17.1
+Bife de porco grelhado::203::14.2::0.7::16.7
+Bife de vaca à café::226::16.5::1.6::16.9
+Bife de vaca à Marrare com manteiga::368::33.3::0.9::16
+Bife de vaca à Marrare com margarina::363::32.8::0.8::16
+Bife de vaca com ovo a cavalo com banha::227::14.5::0.5::23.5
+Bife de vaca com ovo a cavalo com manteiga::199::11.1::0.6::23.9
+Bife de vaca (valor médio de acém, alcatra e lombo) cru::122::4.3::0::20.9
+Bife de vaca (valor médio de acém, alcatra e lombo) frito com manteiga::201::11.5::0.1::24.2
+Bife de vaca (valor médio de acém, alcatra e lombo) frito, sem molho::183::7.5::0::28.8
+Bife de vaca (valor médio de acém, alcatra e lombo) grelhado::163::6.4::0::26.4
+Bife de vitela cru::149::7.6::0.2::19.9
+Bife de vitela frito::229::16.4::0.4::19
+Biscoitos, argolas::451::16.5::69.7::5.4
+Biscoitos caseiros::423::11::73.4::6.7
+Biscoitos limão::382::4.4::77.9::6.7
+Biscoitos, línguas de gato::377::1.8::84.1::5.2
+Biscoitos, línguas de veado::474::20.7::65.1::5.8
+Biscoitos, palitos la Reine::381::7.2::66.6::11.5
+Bolacha água e sal::450::17.8::61::9.8
+Bolacha aveia::443::18.3::57.5::10
+Bolacha "Belga"::487::19.6::70.1::7.1
+Bolacha chocolate::469::19.8::65.4::5.7
+Bolacha "Cream cracker"::442::16.2::61.6::10.8
+Bolacha integral (trigo)::450::15.6::65.6::8.8
+Bolacha manteiga::483::21.3::65.2::6.2
+Bolacha Maria::436::12.2::72::8.4
+Bolacha torrada::437::14.4::68.5::7.3
+Bolacha "waffer" baunilha::564::36.4::55.3::3.2
+Bola de Berlim sem creme::402::21.5::43.7::6.8
+Bolo de arroz::404::14.8::62.7::4.4
+Bolo de bolacha Maria::389::20.7::46.3::3.9
+Bolo de chocolate::463::26.4::47::7.4
+Bolo de coco::454::31::37.8::4.2
+Bolo ferradura::351::4.1::71.6::5.9
+Bolo inglês::380::13.9::57::5.1
+Bolo-Rei::407::14.9::57.4::7.9
+Brandy::246::0::0::0
+Brócolos cozidos::27::0.7::1.3::2.8
+Brócolos crus::32::0.8::1.5::3.4
+Bulgur::344::1.9::65.6::12.1
+Búzio cru::82::0.2::2.3::17.8
+Cabeça de porco::355::32.9::0.3::14.3
+Cação cru::82::0.2::0::20
+Cação frito::170::7::2.7::24
+Cacau em pó::358::23.4::11.1::19.6
+Cachaço de vaca cru::137::5.6::0.3::21.3
+Cachucho cru::80::0.7::0::18.3
+Café, infusão - bica (3 marcas)::4::0.1::0.3::0.4
+Café, infusão - café de cafeteira (3 marcas)::2::0::0.3::0.2
+Café, infusão - carioca (2 marcas)::2::0::0.3::0.2
+Café, infusão - valor médio (bica 60% e café de cafeteira 40%)::3::0.1::0.3::0.3
+Café solúvel em pó com cafeína::272::0.5::41.1::14.9
+Café solúvel em pó descafeinado::274::0.2::42.6::14.7
+Caldeirada de bacalhau::67::2.1::7.1::4.2
+Caldeirada de bacalhau com enchidos e massa::146::8.5::9.7::7
+Caldeirada de cabrito com azeite e banha::119::4.3::8.3::11.3
+Caldeirada de cabrito com azeite e margarina::116::4::8.3::11.3
+Caldeirada de enguias::171::11.9::8.2::6.6
+Caldeirada de enguias à moda de Aveiro::245::21.4::5.3::7.4
+Caldeirada de pargo e peixe-espada-preto::138::9.8::4.4::7.2
+Caldeirada de peixe::84::3.5::4.4::7.5
+Caldeirada de safio com amêijoas::80::2.7::5.8::6.9
+Caldeirada de safio com batatas::81::3.1::7.2::4.5
+Caldeirada de safio, raia e tamboril::98::2.9::9.8::7
+Caldo preparado com cubo de carne de galinha (diluição 2%)::5::0.3::0.2::0.3
+Caldo preparado com cubo de carne de vaca (diluição 2%)::4::0.2::0.2::0.4
+Camarão cozido::99::0.8::0.4::22.6
+Camarão cozido sem sal::92::1.1::0.3::20.2
+Camarão cru::77::0.6::0.3::17.6
+Canela moída::315::3.2::55.5::3.9
+Canja de frango com aipo::56::1.7::2.3::7.8
+Canja de frango com massa::61::1::2.1::10.8
+Canónigos crus::24::0.4::2::2
+Cantarilho (Redfish) assado com cebola, tomate, azeite e bacon::142::8.6::1.2::13.6
+Cantarilho (Redfish) com batata, no forno::108::4.9::5.7::8.7
+Cantarilho (Redfish) cozido::99::2.4::0::19.3
+Cantarilho (Redfish) cru::101::2.9::0::18.6
+Cantarilho (Redfish) no forno::114::2.7::1.1::17.3
+Caracol cru::85::1.4::2::16.1
+Carambola::40::0.3::7.1::0.5
+Carapau cru::105::2.9::0::19.7
+Carapau frito::186::9.6::1::24
+Carapau grelhado::139::3.7::0::26.3
+Cardamomo::335::6.2::49.5::10.8
+Caril em pó::342::13.8::25.2::12.7
+Carne à bolonhesa::238::14::15.6::11.5
+Carne à jardineira::140::8.1::5.6::9.7
+Carne de porco à alentejana::229::16.9::1.8::14.6
+Carne de porco à alentejana sem massa de pimentão::183::11.8::2.2::16
+Caseína::358::1.5::0::86.2
+Castanha assada com sal::222::1.3::45.5::3.5
+Castanha cozida sem sal::175::1::35.9::2.8
+Castanha de caju torrada  e salgada::613::50::19.4::19.6
+Castanha de caju torrada, sem sal::613::50::19.4::19.6
+Castanha do Brasil::690::66.7::2.6::9.6
+Castanha, miolo::194::1.1::39.8::3.1
+Castanha pilada::341::2::70::5.1
+Cavala cozida::192::12.2::0::20.5
+Cavala crua::202::13.4::0::20.3
+Cavala em filetes, conserva em azeite::182::9.6::0::24
+Cavala grelhada::192::12.2::0.6::18.5
+Cavala no forno::192::14.3::2.3::12.9
+Cebola cozida::18::0.2::2.4::1
+Cebola crua::20::0.2::3.1::0.9
+Cebola frita com óleo alimentar::138::11.2::6.2::1.9
+Cebolinho fresco::28::0.6::1.7::2.8
+Cenoura baby crua::29::0.1::4.8::0.6
+Cenoura cozida::23::0::3.6::0.7
+Cenoura crua::25::0::4.4::0.6
+Cereal de pequeno almoço à base de farelo de trigo (tipo "All-Bran")::310::3.4::39.8::15.1
+Cereal de pequeno almoço de trigo integral tipo "Weetabix"::364::2::71.5::10.7
+Cerefólio fresco::80::1::12::4
+Cereja (4 variedades)::67::0.7::13.3::0.8
+Cereja, conserva em calda de açúcar::120::0.2::28.7::0.4
+Cereja, cristalizada::326::0.2::79.9::0.4
+Cereja desidratada::366::3.8::72.6::4.4
+Cerveja branca::30::0::0.5::0.4
+Cerveja preta::23::0::0.6::0.5
+Cerveja sem álcool::7::0::1.5::0.3
+Chá, infusão, preto::0::0::0::0.1
+Chá, infusão, verde::0::0::0::0.1
+Chambão de vitela cru::195::12.6::0.2::20.3
+Chamuça::344::16.3::39.3::9.1
+Cherne cozido::124::5.4::0::18.9
+Cherne cru::132::6.7::0::17.9
+Cherne grelhado::153::6.3::0::24.1
+Chicharro cozido::111::3::0::21.1
+Chicharro cru::105::2.9::0::19.7
+Chicharro grelhado::139::3.7::0::26.3
+Chicória crua::14::0.1::0.9::1
+Chispe de porco::369::33.8::0.2::16.1
+Choco cru::79::0.4::0::18.9
+Choco grelhado::109::0.6::0::25.8
+Chocolate de leite::552::33.9::53.1::8
+Chocolate em barra, culinária::502::30.5::44::5.4
+Chocolate em pó::469::20.3::63.8::4.2
+Chocolate negro (aproximadamente 50% cacau)::530::31.7::52.6::5.2
+Chouriço de carne de porco, cru::477::44.1::0::20
+Chouriço de carne de porco, gordo, cru::544::53.6::0::15.4
+Chouriço de carne de porco, magro, cozido sem adição de sal::334::26.1::0::24.8
+Chouriço de carne de porco, magro, cru::409::34.5::0::24.5
+Chouriço de carne de porco, magro, grelhado sem adição de sal::343::24.1::0::31.6
+Chouriço de sangue cozido sem adição de sal::263::24.2::0::11.2
+Chouriço de sangue, cru::328::31.6::0::11
+Chuchu::19::0.1::2.9::0.8
+Chucrute::15::0.3::1.1::1.3
+Clara de ovo de galinha, crua::47::0.3::0::11
+Clara de ovo de galinha, pasteurizada::46::0::1::10.5
+Clementina::53::0.2::11.1::0.8
+Coco seco, ralado::648::62::6.4::5.6
+Codorniz carne sem pele, crua ::119::3.4::0::22.1
+Codorniz com pele, crua::170::9.3::0::21.5
+Codorniz com pele, estufada com azeite::234::13.4::0.7::25.6
+Codorniz com pele, grelhada::202::11.6::0::24.5
+Coelho à caçador::182::12.7::1.6::12.3
+Coelho cru::117::4::0::20.3
+Coelho em vinha de alhos::174::11.6::1.4::11.3
+Coelho estufado::211::10.2::0.9::26.6
+Coelho estufado com azeite::218::11::0.9::26.6
+Coelho estufado com margarina::205::9.5::0.9::26.6
+Coentros crus::28::0.6::1.8::2.4
+Cogumelos crus::18::0.5::0.5::1.8
+Cogumelos enlatados, escorridos::17::0.4::0::2.1
+Cogumelos fritos com óleo alimentar::163::16.2::0.3::2.4
+Colorau::358::13::35::14.8
+Cominhos::427::22::34::18
+Compota de ameixa::200::0::49.2::0.3
+Compota de ananás::211::0.1::50.8::0.5
+Compota de cereja::251::0::61.9::0.4
+Compota de damasco::239::0::58.9::0.4
+Compota de laranja::242::0::59.5::0.4
+Condimento de mostarda::158::6.4::18.5::5.7
+Coração de galinha cru::149::9.3::0.7::15.6
+Coração de porco, cru::113::4.4::0::18.4
+Coração de porco, estufado com banha e margarina::193::10.5::1::20.9
+Coração de vaca, cozido::123::3.3::0::23.4
+Coração de vaca, cru::92::2.7::0::17
+Coração de vaca, estufado com banha e margarina::154::7.8::0.9::17.7
+Coração de vitela, cru::100::3.6::0::16.8
+Corvina cozida::95::1.4::0::20.7
+Corvina crua::94::1.4::0::20.4
+Costeleta de cabrito crua::120::2.7::0::23.9
+Costeleta de cabrito grelhada::151::3::0::30.9
+Costeleta de carneiro, crua::151::7.5::0::20.8
+Costeleta de porco gorda crua::355::31.8::0::17.3
+Costeleta de porco gorda grelhada::305::23.1::0::24.3
+Costeleta de porco grelhada::212::14.4::0.8::18.1
+Costeleta de porco meio gorda crua::221::15.8::0::19.8
+Costeleta de porco meio gorda estufada::277::20.5::0.7::21.1
+Costeleta de porco meio gorda estufada com azeite e banha::280::20.7::0.7::21.1
+Costeleta de porco meio gorda estufada com azeite e margarina::277::20.4::0.7::21.1
+Costeleta de porco meio gorda estufada com margarina::272::19.9::0.7::21.1
+Costeleta de porco meio gorda estufada com óleo alimentar e banha::280::20.7::0.7::21.1
+Costeleta de porco meio gorda estufada, sem molho::284::19.6::0::26.9
+Costeleta de porco meio gorda frita panada::341::24.1::8.6::22.1
+Costeleta de porco meio gorda grelhada::261::17::0::27
+Costeleta de vitela crua::121::4.5::0::20
+Costeleta de vitela frita com margarina::183::9.9::0::23.4
+Costeleta de vitela frita panada::148::5.3::3.4::19.7
+Costeleta de vitela frita, sem molho::159::6.9::0::24.3
+Costeleta de vitela grelhada::131::3.3::0::25.2
+Costeleta ou perna de borrego assada com azeite e margarina::234::15.6::0::23.3
+Costeleta ou perna de borrego assada com margarina::224::14.5::0::23.3
+Costeleta ou perna de borrego, assada, sem molho::168::8::0::24.1
+Costeleta ou perna de borrego, cozida ::157::5.7::0::26.5
+Costeleta ou perna de borrego, crua ::124::5::0::19.7
+Costeleta ou perna de borrego, estufada com azeite e margarina::183::12::1.6::16.2
+Costeleta ou perna de borrego, estufada com margarina::175::11.1::1.6::16.2
+Costeleta ou perna de borrego, estufada sem molho::185::9.2::0::25.5
+Costeleta ou perna de borrego frita com margarina, sem molho::166::7.6::0::24.5
+Costeleta ou perna de borrego, grelhada::152::5.5::0::25.7
+Costeleta ou perna de carneiro magra frita com margarina, sem molho::174::8.4::0::24.7
+Couve-branca cozida::23::0.4::2.2::1.7
+Couve-branca crua::28::0.4::3.5::1.4
+Couve-de-Bruxelas cozida::43::1.3::3.5::2.9
+Couve-de-Bruxelas crua::50::1.4::4::3.5
+Couve-flor cozida::21::0.2::2.3::1.6
+Couve-flor crua::34::0.2::3.3::3.7
+Couve-galega cozida::29::0.4::2.9::2.1
+Couve-galega crua::32::0.4::3.1::2.4
+Couve-lombarda cozida::22::0.2::1.4::2.2
+Couve-lombarda crua::26::0.2::2.1::2.4
+Couve-portuguesa cozida::27::0.4::2.5::2.1
+Couve-portuguesa crua::31::0.4::3.5::2.2
+Couve-roxa crua::30::0::3.9::2
+Cozido à portuguesa::120::7::6.2::6.8
+Cozido à portuguesa com grão::259::13.5::20.5::11.7
+Cravinho::431::20::52::6
+Creme culinário::531::59::0::0
+Creme culinário líquido, 65% gordura, com sal::588::65.3::0::0
+Creme de camarão::39::1.4::1.7::3.6
+Creme de camarão com natas::51::2.9::1.9::3.5
+Creme de ervilhas::43::1.9::3::2.6
+Creme para barrar de cacau e avelãs (8 marcas)::545::33.3::54.7::5.9
+Creme vegetal culinário, 75% gordura, sem sal::677::75::0.4::0.1
+Creme vegetal para barrar 35% gordura, com fitosteróis::328::35::3.2::0.1
+Creme vegetal para barrar 37% gordura::343::37.4::0.2::1.4
+Creme vegetal para barrar 58% gordura, com cálcio::525::58::0.5::0.3
+Creme vegetal para barrar 70% gordura, 53% ácidos gordos monoinsaturados::632::70::0.5::0.1
+Creme vegetal para barrar 70% gordura, com sal::632::70::0.3::0.1
+Creme vegetal para barrar  72% gordura, 33% ácidos gordos polinsaturados::651::72.1::0.4::0.1
+Croissant::416::23.5::42.2::7.6
+Croquete::316::18.8::23.1::13.2
+Croquete de carne de vaca meio-gorda::257::11.9::19.1::15.1
+Cubo de carne de galinha para caldo::236::15.4::9::15.4
+Cubo de carne de vaca para caldo::183::8::8::19.8
+Curgete crua::19::0.3::2::1.6
+Curgete frita com óleo alimentar::64::4.8::2.5::2
+Damasco::48::0.1::8.5::0.8
+Damasco, conserva em calda de açúcar::163::0.1::39.3::0.5
+Damasco seco::242::0.9::41.2::5.4
+Dióspiro::65::0::14.8::0.6
+Dióspiro desidratado::353::0::80.8::3.3
+Doce de cereja::262::0::64.9::0.2
+Doce de damasco::233::0::57.4::0.5
+Doce de framboesa::242::0::59.7::0.4
+Doce de ginja::263::0::64.8::0.4
+Doce de maçã::239::0::59::0.2
+Doce de morango::245::0::60.5::0.2
+Doce de pêssego::209::0::51.3::0.4
+Donut::400::21.7::43::6.6
+Donut recheado com doce de fruta::348::14.5::47::6
+Dourada cozida::196::12.5::0::20.8
+Dourada crua::167::9.8::0::19.7
+Dourada grelhada::178::9.9::0::22.3
+Éclair de chocolate::378::23.8::36.5::4.1
+Empada::374::21.9::33.9::9.6
+Empadão de atum::234::15.2::10.7::12.9
+Empadão de bacalhau::118::5::10.9::6.9
+Empadão de carne com manteiga::134::6.3::10.7::6.6
+Empadão de carne com margarina::134::6.3::10.7::6.6
+Empadão de carne guisada::167::9.3::10.9::9.4
+Empadão de pescada e camarão::122::4.5::11::8.7
+Endívia crua::19::0.4::1.2::1.8
+Enguia crua::303::27.7::0::13.4
+Enguia frita::267::21.6::3.2::14.8
+Entrecosto de porco cozido::235::14.2::0::26.9
+Entrecosto de porco cru::190::12.4::0::19.6
+Entrecosto de porco estufado com azeite e banha::246::17.1::0.7::20.9
+Entrecosto de porco estufado com azeite e margarina::244::16.8::0.7::20.9
+Entrecosto de porco estufado com margarina::239::16.3::0.7::20.9
+Entrecosto de porco estufado com óleo alimentar e banha::246::17.1::0.7::20.9
+Entrecosto de porco estufado, sem molho::245::15.4::0::26.6
+Entrecosto de porco grelhado::243::15.1::0::26.8
+Ervilhas estufadas::113::5.1::9.6::5.1
+Ervilhas, grão, congeladas cozidas::72::0.5::7.5::5.6
+Ervilhas, grão, congeladas cruas::68::0.5::7::5.3
+Ervilhas, grão, frescas cozidas::72::0.7::7.9::6.2
+Ervilhas, grão, frescas cruas::76::0.7::8.6::6.4
+Ervilhas secas cozidas::114::0.4::18.1::6.9
+Ervilhas secas cruas::330::1.3::49.4::22.7
+Ervilhas, vagens cozidas::30::0.2::3.5::2.8
+Ervilhas, vagens cruas::33::0.2::3.9::3.1
+Espadarte cru::97::2.9::0::17.8
+Espadarte grelhado::116::3.4::0::21.3
+Espargos cozidos::20::0::2.2::2.2
+Espargos crus::22::0::2.7::2.1
+Esparguete cozido::102::0.6::19.9::3.4
+Esparguete cru::360::1.9::71.1::12.1
+Esparguete estufado com cenoura e azeite::121::3.9::17.6::3
+Esparguete estufado com cenoura e margarina::115::3.2::17.6::3
+Espetada de porco grelhada::285::24.8::1.3::13.6
+Espetada de vaca grelhada::213::12.8::0.8::23.5
+Espinafres crus::27::0.9::0.8::2.6
+Estragão fresco::55::1.1::6.3::3.4
+Estragão seco::363::7.2::42.8::22.8
+Faneca crua::82::0.6::0.1::19
+Farelo de trigo::293::5.3::24.9::16.2
+Farinha de alfarroba::368::0.3::85.6::3.2
+Farinha de aveia::363::7.3::57::14.5
+Farinha de centeio::370::1.2::77.3::7.8
+Farinha de centeio tipo 70::364::1.1::78.5::6.6
+Farinha de centeio tipo 85::375::1.3::76::9
+Farinha de cevada::330::2.5::64.4::8.8
+Farinha de espelta::339::2.3::61.8::14
+Farinha de milho tipo 70::359::2.2::75.3::8.3
+Farinha de pau (mandioca)::350::0.3::84.6::1.4
+Farinha de trigo integral::338::2.4::65.2::9.6
+Farinha de trigo tipo 150::352::1.8::73::9.1
+Farinha de trigo tipo 55::344::1.1::74.3::7.8
+Farinha de trigo (valor médio tipo 150 e tipo 55)::349::1.5::73.7::8.5
+Farinha láctea 5 frutos tipo "Cerelac" (com farinha de trigo)::408::9::65::15
+Farinha láctea maçãs tipo "Cerelac" (com farinha de trigo)::412::9::66::15
+Farinha láctea tipo "Cerelac" (com farinha de trigo)::416::9::68::15
+Farinheira cozida sem adição de sal::404::30.7::26.4::4.8
+Farinheira crua::497::41::26.7::4.8
+Favada à portuguesa::130::5.9::8.4::8
+Favas frescas cozidas::73::0.5::7.4::6.7
+Favas frescas cruas::80::0.5::8.5::7.4
+Favas secas cozidas (demolhadas)::90::0.6::10.7::7.9
+Favas secas cruas::301::1.3::32.8::25.8
+Feijão branco cozido (demolhado)::103::0.5::14.6::6.6
+Feijão branco cru::318::1.4::43.9::21
+Feijão frade (feijão miúdo) cozido (demolhado)::123::0.7::18.1::8.8
+Feijão frade (feijão miúdo) cru::342::1.3::55.3::22.6
+Feijão manteiga cozido (demolhado)::107::0.6::14::7.8
+Feijão manteiga cru::316::1.4::42.6::21.8
+Feijão-verde fresco cozido::30::0.3::3.5::1.8
+Feijão-verde fresco cru::32::0.3::3.8::1.9
+Feijão vermelho seco::276::1.4::36.7::22.1
+Feijoada com carne de porco::187::7.2::13.3::13.6
+Feijoada com carne de porco e de vaca::191::7.5::13.3::13.7
+Feijoada com enchidos e ovos::240::15.1::14.1::9
+Feijoa (polpa)::52::0.5::9.8::0.9
+Fermento em pó::156::0::34.4::4.7
+Fermento fresco de padeiro::78::0.9::1::12.9
+Fermento seco de padeiro::228::2.5::3.2::38.3
+Fiambre de aves::84::1.6::2.7::13.8
+Fiambre de porco::106::4.6::0::15.3
+Fiambre, pá::112::5.1::1.3::14
+Fiambre, peito de frango::82::1.3::2.8::13.7
+Fiambre, peito de peru::85::1.9::2.6::13.8
+Fiambre, perna::111::4.1::1.2::16.5
+Fígado de galinha::92::2.3::0::17.7
+Fígado de porco, cru::129::5::0::20.9
+Fígado de porco, frito com margarina e banha::211::13.1::0::23.2
+Fígado de porco, frito, sem molho::180::8.8::0::25.2
+Fígado de porco, grelhado::162::6.3::0::26.3
+Fígado de vaca, cru::132::4.4::2.1::20.9
+Fígado de vaca, frito, sem molho::171::7::2.5::24.5
+Fígado de vitela, cru::119::3.5::1.5::20.3
+Fígado de vitela, frito com banha e manteiga::201::11.5::1.7::22.6
+Fígado de vitela, frito, sem molho::179::8.3::1.5::24.6
+Fígado de vitela, grelhado::153::4.7::1.9::25.7
+Figo (5 variedades)::79::0.5::16.3::0.9
+Figo cristalizado::295::0.4::71.2::0.5
+Figo seco::270::0.6::58.3::2.3
+Filetes de bacalhau fritos::194::10.7::5.1::19.2
+Fisális::68::0.6::11.7::1.8
+Flocos de arroz::379::1.5::83.4::7
+Flocos de aveia::366::5.8::61.7::13.5
+Flocos de centeio::352::2::69::12
+Flocos de cereais e frutos secos tipo "Muesli"::388::6.3::69.1::10.4
+Flocos de cevada::324::2::64.4::8.3
+Flocos de milho tipo "Corn Flakes"::374::1.1::81.1::7.9
+Flocos de trigo::373::2.5::69::14
+Flocos de trigo com figos tipo "Nestum"::370::1.5::76.3::9
+Flocos de trigo com mel tipo "Nestum"::385::1::84.6::8.2
+Flocos de trigo e arroz enriquecidos com vitaminas, cálcio e ferro::372::1.3::79.2::7.5
+Flocos de trigo integral tipo "All-Bran Flakes"::349::1.9::64.2::10.2
+Flor de sal::0::0::0::0
+Folhas de rabanete cruas::39::0.5::3.7::3.5
+Framboesa::49::0.6::5.1::0.9
+Framboesa desidratada::293::3.6::30.9::5.4
+Francesinha, com molho::249::17.7::6.5::13.3
+Frango (1/4) peito e asa com pele, cozidos::202::10.3::0::27.2
+Frango (1/4), peito e asa com pele, crus::196::12.7::0::20.4
+Frango (1/4) peito e asa com pele, estufados com azeite e margarina::204::13.5::1.7::18.5
+Frango (1/4) peito e asa com pele, estufados com margarina::201::13.2::1.7::18.5
+Frango (1/4) peito e asa com pele, estufados sem molho::223::11.8::0::29.2
+Frango (1/4) peito e asa com pele, grelhados::235::13.4::0::28.7
+Frango (1/4) perna com costa e pele, assada sem molho::231::13.7::0::26.9
+Frango (1/4) perna com costa e pele, cozida::197::10.6::0::25.5
+Frango (1/4), perna com costa e pele, crua::195::13::0::19.1
+Frango (1/4) perna com costa e pele, estufada com azeite e margarina::203::13.8::1.7::17.3
+Frango (1/4) perna com costa e pele, estufada com margarina::200::13.5::1.7::17.3
+Frango (1/4) perna com costa e pele, estufada sem molho::215::11.9::0::26.9
+Frango (1/4), perna com costa e pele, grelhada::231::13.7::0::26.9
+Frango inteiro com pele, assado sem molho::239::14.3::0::27.6
+Frango inteiro com pele, cozido::204::11.1::0::26.1
+Frango inteiro com pele, cru::201::13.6::0::19.6
+Frango inteiro com pele, estufado com azeite e margarina::224::15.4::1.8::19.1
+Frango inteiro com pele, estufado com margarina::221::15.1::1.8::19.1
+Frango inteiro com pele, estufado sem molho::233::13.1::0::28.8
+Frango inteiro com pele, grelhado::239::14.3::0::27.6
+Frango inteiro sem pele, cozido::169::4.2::0::32.8
+Frango inteiro sem pele, cru::110::2::0::22.9
+Frango inteiro sem pele, estufado com azeite e margarina::129::4.1::1.7::21
+Frango inteiro sem pele, estufado com margarina::126::3.8::1.7::21
+Frango inteiro sem pele, estufado sem molho::185::5.8::0::33.2
+Frango inteiro sem pele, grelhado::168::4.9::0::31
+Frango, pele crua::474::48.3::0::9.7
+Funcho fresco::32::0.4::2.6::2.8
+Galinha de angola com pele, crua::152::6.5::0::23.4
+Gamba crua::88::0.2::0::21.5
+Garoupa cozida::101::2::0::20.8
+Garoupa crua::95::1.4::0::20.5
+Garoupa grelhada::121::1.9::0::25.9
+Gelado caseiro com bolachas e natas::358::21.2::36.5::5.1
+Gelado caseiro com palitos la Reine::263::12.4::28.7::7.9
+Gelado de água (sorvete)::132::0::32.6::0.4
+Gelado de leite::199::10.9::21.7::3.6
+Gelatina desidratada (pó ou folha)::349::0.1::0::87
+Gelatina preparada com ananás em conserva::97::0::21.6::2.2
+Gelatina preparada com laranja e sumo de laranja::84::0.1::17.4::2.6
+Geleia de casca de laranja::275::0::68::0.3
+Gema de ovo de galinha, crua::342::30.9::0::16
+Gema de ovo de galinha, pasteurizada::294::25.2::1.3::15.3
+Gengibre fresco::82::0.8::15.8::1.8
+Gérmen de trigo::391::9.6::41.8::28.1
+Ginja::57::0.3::11.5::0.9
+Gin - Rum- Whisky::222::0::0::0
+Goiaba crua, polpa::41::0.5::5::0.8
+Goraz assado com cebola, tomate, azeite e óleo alimentar::117::5.1::1.5::14.8
+Goraz cozido::108::3.5::0::19.2
+Goraz cru::100::2.7::0::18.8
+Goraz grelhado::118::3.2::0::22.4
+Goraz no forno::110::2.7::0.7::18.7
+Grão-de-bico cozido (demolhado)::130::2.1::16.7::8.4
+Grão-de-bico cru::354::5::51.4::19
+Grelos de couve cozidos::22::0.4::1.5::1.9
+Grelos de couve crus::28::0.4::2.5::2.4
+Grelos de nabo cozidos::20::0.4::1.3::1.8
+Grelos de nabo crus::29::0.5::2.3::2.4
+Gressino::396::8.7::67::10.7
+Groselha::52::0.5::5::1.1
+Hambúrguer de feijão manteiga frito com azeite::169::5.3::19.8::8
+Hambúrguer de feijão manteiga frito com óleo de milho::169::5.3::19.8::8
+Hambúrguer de peru, frito::56::0.7::3::8.8
+Hambúrguer de porco, frito, sem molho::264::17.1::0::27.5
+Hambúrguer de porco, grelhado::261::16.6::0::27.8
+Hambúrguer de vaca, cru::142::6.8::0::20.2
+Hambúrguer de vaca, frito ::207::13.8::1.2::19.1
+Hambúrguer de vaca, grelhado::183::8.2::0::27.3
+Hortelã fresca::51::0.7::5.3::3.8
+Imperador assado com cebola, tomate, azeite e óleo alimentar::94::3.1::1.4::13.7
+Imperador cozido::84::0.5::0::19.9
+Imperador cru::80::0.4::0::19
+Imperador grelhado::97::0.5::0::23
+Inhame cru ::114::0.3::25.7::1.5
+Iogurte gordo, aromatizado, açucarado ::83::3.6::8.5::3.9
+Iogurte gordo, com polpa e/ou pedaços de fruta, açucarado ::96::3.2::12.4::4.2
+Iogurte gordo, com polpa e/ou pedaços de fruta e cereais açucarado::114::3.2::15.8::4.2
+Iogurte grego com fruta açucarado::119::5::15::2.7
+Iogurte grego magro natural ::56::2::3.9::5.3
+Iogurte grego natural::84::6.6::4.4::1.4
+Iogurte líquido magro, aromatizado, açucarado ::62::0.3::11.6::3.2
+Iogurte líquido meio gordo, aromatizado, açucarado ::70::1.3::11.5::3
+Iogurte líquido meio gordo, natural, açucarado::70::1.4::11.2::3.1
+Iogurte magro, aromatizado, açucarado ::69::0.1::11.8::5
+Iogurte magro, com cereais e edulcorantes::50::0.4::5.7::4.3
+Iogurte magro, natural ::42::0.2::5.2::4.6
+Iogurte magro, natural, com edulcorantes ::48::0.1::6.3::5
+Iogurte meio gordo, aromatizado, açucarado::79::1.8::11.3::4.3
+Iogurte meio gordo, com polpa e/ou pedaços de fruta, açucarado::92::1.7::14.6::4.3
+Iogurte meio gordo, natural::54::1.8::5::4.2
+Iogurte meio gordo, natural, açucarado ::92::2.1::13.1::4.7
+Iogurte sem lactose enriquecido em proteína, magro, aromatizado, com pedaços e/ou polpa de fruta, açucarado::76::0::9.7::9
+Iogurte sem lactose líquido, magro, aromatizado, com polpa de fruta, açucarado::78::0.2::16::3.1
+Iogurte sem lactose líquido, magro, aromatizado, com polpa de fruta, com edulcorantes::34::0.1::5::3.3
+Iogurte sem lactose líquido, meio gordo, aromatizado, açucarado::71::1.4::11.8::2.8
+Iogurte sem lactose líquido, meio gordo, aromatizado, com polpa de fruta, açucarado::73::1.3::12.5::2.6
+Iogurte sem lactose líquido, meio gordo, natural, açucarado::70::1.4::11.7::2.7
+Iogurte sem lactose magro, aromatizado, com pedaços e/ou polpa de fruta, com edulcorantes::42::0.1::4.8::4.8
+Iogurte sem lactose magro, natural::41::0.2::5::4.9
+Iogurte sem lactose meio gordo, aromatizado, açucarado::76::1.5::12::3.5
+Iogurte sem lactose meio gordo, aromatizado, com frutos secos e cereais, açucarado::98::1.6::16.1::3.7
+Iogurte sem lactose meio gordo, aromatizado, com pedaços e/ou polpa de fruta, açucarado::83::1.3::13.6::3.7
+Iogurte sem lactose meio gordo, natural::48::1.5::4.5::3.8
+Iogurte sem lactose meio gordo, natural, açucarado::78::1.5::12.2::3.5
+Jarrete de porco::140::6::0.1::21.4
+Javali cru::108::3.4::0::19.5
+Jesuíta::518::31.2::54::4.1
+Lagosta cozida::90::0.8::0.2::20.6
+Lagosta crua::79::0.7::0.1::18.2
+Lagostim cozido::90::0.5::0.2::21.2
+Lagostim cru::89::0.5::0.2::20.9
+Lampreia crua::314::27.4::0.1::16.7
+Lapas cruas::66::0.7::0.6::14.3
+Laranja (3 variedades)::48::0.2::8.9::1.1
+Lasanha à bolonhesa::183::12.4::9.2::7.7
+Lebre crua::113::3::0::21.6
+Leite condensado::338::9::56.4::7.8
+Leite creme::163::6.8::19.5::5.9
+Leite de cabra cru::70::4::4.6::3.8
+Leite de coco, enlatado::185::18.4::2.8::2
+Leite de ovelha cru::93::6.2::4.2::5.1
+Leite evaporado::136::7.8::9.8::6.6
+Leite fermentado (Bifidus) gordo, natural::68::3.6::4.5::4
+Leite fermentado (Bifidus) sem lactose enriquecido com fibra, magro, aromatizado, com pedaços e/ou polpa de fruta, com sementes e/ou cereais, com frutos secos e/ou de casca rija, com edulcorantes ::57::0.8::6.6::4.2
+Leite fermentado (Bifidus) sem lactose, gordo, natural::70::3.7::4.8::4.2
+Leite fermentado (Bifidus) sem lactose líquido, meio gordo, aromatizado, com pedaços e/ou polpa de fruta, açucarado::71::1.7::11::2.7
+Leite fermentado (Bifidus) sem lactose, magro, aromatizado, com pedaços e/ou polpa de fruta e/ou hortícolas, açucarado, com edulcorantes::57::0.4::8.2::4.9
+Leite fermentado (Bifidus) sem lactose magro, natural, com edulcorantes::51::0.4::6.2::5.3
+Leite gordo especial, pasteurizado ::62::3.4::4.8::3.1
+Leite gordo, pasteurizado::62::3.5::4.7::3
+Leite gordo, pó::495::25.9::38.7::26.8
+Leite gordo sem lactose, enriquecido com vitaminas A, D, E e B9 (ácido fólico), UHT::62::3.5::4.6::3
+Leite gordo, UHT::62::3.5::4.7::3
+Leite humano::66::3.4::7.5::1.4
+Leite humano, colostro::60::2.8::6.3::2.3
+Leite humano, transição::66::3.7::6.6::1.6
+Leite magro de pastagem, UHT ::33::0.1::4.9::3.1
+Leite magro, pó::359::0.9::52.7::35.1
+Leite magro sem lactose, UHT::36::0.2::5.1::3.4
+Leite magro, UHT::35::0.2::4.9::3.4
+Leite meio gordo aromatizado, UHT ::60::1.8::7.9::3
+Leite meio gordo de pastagem, UHT::46::1.5::5::3
+Leite meio gordo, pó::427::13.5::45.6::30.7
+Leite meio gordo sem lactose, UHT::48::1.6::5.1::3.3
+Leite meio gordo, UHT::47::1.6::4.9::3.3
+Lentilhas secas cozidas (demolhadas)::115::0.3::16.7::9.1
+Lentilhas secas cruas::321::0.7::47.6::25.2
+Lichia fresca::70::0.4::14.8::0.9
+Licor beneditino::352::0::34.8::0
+Licor de anis::385::0::36::0
+Licor de ginja::239::0::19::0.1
+Licor simples::294::0::24.4::0
+Lima::31::0.2::1.7::0.7
+Limão::31::0.3::1.9::0.5
+Língua de porco crua::220::17.2::0::16.3
+Língua de vaca, crua::199::15::0::15.9
+Língua de vaca, estufada, sem molho::267::20.9::0::19.8
+Linguado cru::82::0.2::0::20.1
+Linguado frito::164::6.2::2.7::24.3
+Linguado grelhado::94::0.2::0::23.1
+Linguiça::437::39::0::21.5
+Lombo de porco assado::220::11.3::0.2::27.5
+Lombo de porco assado com azeite e margarina::219::11.1::0.2::27.5
+Lombo de porco assado com margarina::208::10.6::0::28.2
+Lombo de porco assado com óleo alimentar e margarina::219::11.1::0.2::27.5
+Lombo de porco assado, sem molho::210::8.8::0::32.7
+Lombo de porco cru::131::4.7::0::22.2
+Lombo de porco frito::182::7.4::0::28.8
+Lombo de porco frito com manteiga::180::7.2::0::28.8
+Lombo de porco frito com margarina::184::7.6::0::28.8
+Lombo de porco frito panado::249::12.5::8.5::25.3
+Lombo de porco grelhado::189::8.1::0::29.1
+Lombo de vaca magro assado com azeite e margarina::205::11.1::0::26.2
+Lombo de vaca magro assado com azeite, manteiga e óleo alimentar::207::11.4::0::26.2
+Lombo de vaca magro assado com margarina::198::10.4::0::26.2
+Lombo de vaca magro assado com óleo alimentar e margarina::205::11.1::0::26.2
+Lombo de vaca magro assado, sem molho::172::6.1::0::29.2
+Lombo de vaca magro cru::114::3.3::0::21
+Lombo de vaca magro no forno, com tomate, cebola, cenoura e alho::128::6.8::2.5::11.9
+Lombo de vitela assado com azeite e margarina::225::14.4::0.2::23
+Lombo de vitela assado com azeite, margarina e óleo alimentar::225::14.4::0.2::23
+Lombo de vitela assado com margarina e óleo alimentar::225::14.4::0.2::23
+Lombo de vitela assado, sem molho::151::5.6::0::25.1
+Lombo de vitela cru::148::7.6::0::19.9
+Lombo de vitela frito com margarina::217::13.7::0::23.5
+Lombo de vitela frito, sem molho::195::10.6::0::24.9
+Lombo de vitela grelhado::150::5.6::0::25
+Lombo ou pá de cavalo assado com azeite e manteiga::167::8::0.1::22.7
+Lombo ou pá de cavalo assado com margarina::161::7.3::0.1::22.7
+Lombo ou pá de cavalo assado, sem molho::136::4.3::0::24.2
+Lombo ou pá de cavalo cru::99::2.3::0::19.6
+Lombo ou pá de cavalo frito com manteiga::158::8::0::21.6
+Lombo ou pá de cavalo frito com margarina::157::7.8::0::21.6
+Lula crua::71::0.9::0::15.8
+Lula estufada com cebola, tomate e azeite::135::6.3::2.9::16.1
+Lula grelhada::144::1.6::0::32.5
+Maçã assada com açúcar::106::0.5::23.9::0.2
+Maçã assada sem açúcar::75::0.5::15.7::0.3
+Maçã com casca::64::0.5::13.4::0.2
+Maçã cozida com açúcar::77::0.5::17::0.2
+Maçã cozida sem açúcar::51::0.5::10.5::0.2
+Maçã desidratada::354::2.9::74.5::1.1
+Maçã (média com e sem casca)::62::0.5::13.1::0.2
+Maçã seca::257::0.3::57.1::0.8
+Maçã sem casca::61::0.5::12.7::0.2
+Madalena::443::22.6::54.7::4.9
+Maionese caseira, com ovo e azeite::657::71.2::0::4
+Maionese caseira, com ovo e óleo de soja::644::69.8::0::3.9
+Malagueta vermelha fresca::31::0.3::4.2::1.8
+Mandioca crua::145::0.3::33.8::1
+Manga::59::0.3::11.7::0.5
+Manga desidratada::340::1.7::67.4::2.9
+Manjericão fresco::48::0.8::5.1::3.1
+Manjericão seco::244::4.1::10::23
+Manjerona seca::320::7::42.5::12.7
+Manteiga com sal::739::81.8::0.7::0.1
+Manteiga sem sal::750::83::0.7::0.1
+Maracujá::52::0.4::5.7::2.6
+Margarina::740::82::0.4::0.1
+Margarina 3/4, de girassol::524::58::0.3::0.1
+Margarina culinária para folhados, com sal::772::85.5::0.4::0.1
+Margarina industrial para pastelaria, com sal::727::80.5::0.4::0.1
+Margarina vegetal culinária, 80% gordura, com sal::722::80::0.4::0.1
+Margarina vegetal culinária, com alho e sal::692::74.3::4.4::1
+Marmelada::284::0::69.7::0.1
+Marmelo::53::0.2::9.3::0.3
+Maruca cozida::73::0.1::0::17.9
+Maruca crua::70::0.1::0::17.2
+Massa com ovo cozida::71::0.6::13.3::2.8
+Massa com ovo crua::360::3.1::67.6::13.9
+Massa de pimentão::44::1::4.4::2.6
+Massa folhada, congelada::398::27.5::31.8::5
+Massa miúda crua::356::1.8::70::12.4
+Massa para lasanha cozida::115::0.7::22.6::4
+Massa para lasanha crua::359::2.1::71.4::12
+Massa para pizza::289::4.8::52.5::7.8
+Massa quebrada para quiche::498::29.2::52.4::5.5
+Meia-desfeita de bacalhau::156::4.2::14.8::12.7
+Mel::314::0::78::0.5
+Melaço::269::0.1::66.6::0.6
+Melancia::26::0.2::5.5::0.4
+Melão (3 variedades)::30::0.3::5.7::0.6
+Mel de cana::311::0::77.4::0.3
+Meloa::23::0.1::4.2::0.6
+Merengue::353::0.5::83::4.1
+Mexilhão cozido sem sal::97::2.1::2.8::16.8
+Mexilhão cru::70::1.5::2::12.1
+Milho, amido (pó)::364::0.2::90.2::0.4
+Milho doce em conserva::106::1.7::18.4::2.8
+Milho, grão seco cru::368::4.9::70.3::9.3
+Minarina (meia margarina)::380::41.6::0.4::0.9
+Mirtilo::43::0.6::6.4::0.5
+Mirtilo desidratado::317::4.4::46.8::3.7
+Molho "Béchamel" com manteiga::130::8.4::9.6::4
+Molho "Béchamel" com margarina::140::9.5::9.9::3.6
+Molho branco com caldo de carne de vaca::115::9.2::6.8::1.1
+Molho branco com margarina::244::16.8::18.5::4.4
+Molho de bife frito com manteiga::379::41::0.4::2
+Molho de carne de vaca assada com azeite e margarina::586::64::0.3::2.1
+Molho de carne de vaca assada com margarina::513::56::0.4::1.9
+Molho de carne de vaca estufada com azeite e margarina::260::27.9::0.4::1.7
+Molho de carne de vaca estufada com vegetais, azeite e margarina::267::28.5::1.3::1.3
+Molho de lombo de porco frito com banha::551::60.2::0::2.2
+Molho de lombo de porco frito com banha e margarina::498::54.3::0.1::2.3
+Molho de lombo de porco frito com margarina::447::48.5::0.2::2.3
+Molho de lombo de vaca frito com creme vegetal sem sal::350::37.8::0.2::2.2
+Molho de lombo de vaca frito com margarina::372::40.3::0.2::2.2
+Molho de mostarda ::444::40.2::18::2.6
+Molho de soja::89::0::17.3::4.7
+Molho de tomate::107::8.8::4.9::1.1
+Molho de tomate, "ketchup"::119::0.3::26.9::1.7
+Molho de vinagrete::648::71.8::0.2::0.2
+Molho para francesinha::74::2.6::4.8::1.1
+Molho verde::246::25.6::2.3::0.7
+Morango::34::0.4::5.3::0.6
+Morango desidratado ::322::3.8::50.9::5.8
+Morcela crua::363::29.5::12::12
+Morcela grelhada sem adição de sal::339::25.9::13.1::12.9
+Mortadela::379::33.2::1.7::18.3
+Mousse de chocolate::285::13.1::31::9.5
+Múcua (fruto do embondeiro, baobab)::212::0.1::16.3::2.8
+Nabiça crua::17::0::1::2
+Nabo (raiz) cozido::19::0.4::2.3::0.4
+Nabo (raiz) cru::21::0.4::3::0.4
+Nata maturada pasteurizada 30% gordura::306::32::2.7::1.9
+Nata para bater pasteurizada 34% gordura::323::34::2.1::2.2
+Nata pasteurizada 33% gordura::317::33::2.9::2
+Nata pasteurizada 36% gordura::340::36::1.9::2
+Nata pasteurizada para café, 15% gordura::153::15::2.4::2
+Nata UHT 35% gordura::335::35::3.1::1.8
+Néctar de alperce::56::0.1::12.9::0.2
+Néctar de ananás::46::0.1::10.5::0.2
+Néctar de laranja::43::0.1::9.6::0.2
+Néctar de maçã::48::0.1::11.3::0.1
+Néctar de maçã, "light"::22::0.2::4.6::0.1
+Néctar de pera::48::0.1::11::0.2
+Néctar de pêssego::51::0.1::11.7::0.2
+Néctar de pêssego, "light"::18::0.1::3.5::0.1
+Néctar de "tutti - frutti"::46::0.1::10.8::0.1
+Nectarina::49::0.1::8.7::1.4
+Nêspera::51::0.4::10.2::0.4
+Noz macadâmia::752::76::5.1::8
+Noz, miolo::699::67.5::3.6::16.7
+Noz-moscada::506::36.3::28.5::5.8
+Noz pecan::729::72.6::5.4::9.4
+Óleo alimentar::896::99.5::0::0
+Óleo "Becel"::887::98.5::0::0
+Óleo de amendoim::887::98.5::0::0
+Óleo de coco::900::100::0::0
+Óleo de girassol::896::99.5::0::0
+Óleo de linhaça::900::100::0::0
+Óleo de palma::900::100::0::0
+Óleo de soja::887::98.5::0::0
+Óleos de milho::896::99.5::0::0
+Omelete::136::9.5::0.2::12
+Omelete com manteiga::199::16.3::0::13
+Omelete com margarina::198::16.2::0::13
+Orégão seco::265::4.3::26.4::9
+Orelha de porco, crua::128::2.5::0.3::26
+Ostra, crua::65::1.7::3.9::8.6
+Ovas de bacalhau cruas::104::1.9::0::21.7
+Ovas de pescada cruas::83::2.9::0::14.3
+Ovo de codorniz, cru::150::10.7::0.4::12.9
+Ovo de galinha, cozido::149::10.8::0::13
+Ovo de galinha, escalfado::150::10.9::0::13
+Ovo de galinha, estrelado::193::15.4::0::13.7
+Ovo de galinha, estrelado com azeite::191::15.1::0::13.8
+Ovo de galinha, estrelado com manteiga::194::15.5::0::13.7
+Ovo de galinha, estrelado com margarina::194::15.5::0::13.7
+Ovo de galinha inteiro, cru::149::10.8::0::13
+Ovo de galinha líquido, pasteurizado::131::9.3::0::11.9
+Ovo de galinha, mexido com manteiga::197::16.1::0::13
+Ovo de galinha, mexido com margarina::196::16::0::13
+Ovo mexido com leite e margarina::213::18.3::0.9::11
+Pá de carneiro, assada com azeite e margarina::319::24.6::0::24.3
+Pá de carneiro, assada com margarina::310::23.6::0::24.3
+Pá de carneiro assada, sem molho::202::11.3::0::25.1
+Pá de carneiro, cozida::238::14.2::0::27.6
+Pá de carneiro, crua::195::12.6::0::20.5
+Pá de carneiro, estufada sem molho::238::14.2::0::27.6
+Pá de vitela crua::138::4.9::0.3::23.3
+Paio de lombo::288::19::0::29.2
+Paio de lombo entremeado::361::30::0::22.8
+Pão de centeio::268::0.8::56.4::5.9
+Pão de centeio integral::229::2.1::41.3::7.7
+Pão de forma, de trigo com passas::291::2::58.3::8.3
+Pão de forma, de trigo enriquecido::284::2.7::54.5::8.7
+Pão de leite (trigo)::259::1.9::51.4::7.7
+Pão de ló::361::8::62.2::9.6
+Pão de milho::188::1.2::37.2::5.3
+Pão de mistura de trigo e centeio::272::1.4::53.8::9
+Pão de trigo::290::2.2::57.3::8.4
+Pão de trigo integral::232::3::39.9::7.6
+Pão de trigo integral com passas::247::2.6::44::7.4
+Pão de trigo integral com sementes de sésamo::256::4::43.2::7.7
+Pão de trigo integral com soja::233::2.8::38.2::9.4
+Pão do coração (trigo)::248::1.2::51::7
+Pão pita::218::1.1::42.7::7.7
+Pão ralado::359::2.3::71.6::11.2
+Papaia::45::0.1::9.1::0.6
+Papaia desidratada::361::0.8::73.3::4.8
+Pargo legítimo assado com cebola, tomate e azeite::136::6.7::1.4::15.9
+Pargo legítimo cozido::82::0.3::0::19.8
+Pargo legítimo cru::79::0.2::0::19.4
+Pargo mulato assado com cebola, tomate e azeite::137::7.1::1.4::15.2
+Pargo mulato cozido::85::1::0::19
+Pargo mulato cru::80::0.7::0::18.5
+Pasta de fígado de aves (paté), caseira ::289::17.6::4.6::27
+Pasta de fígado de porco (paté)::363::34.5::3.2::10
+Pastel de bacalhau::227::13.4::12.3::13.8
+Pastel de feijão::322::9.4::52::6.8
+Pastel de nata::299::10.2::48.5::2.9
+Pastel folhado::415::26::37.4::7.1
+Pastilha elástica::328::0::75.1::6.9
+Pato com pele, assado sem molho::347::30.3::0::18.5
+Pato com pele, cru::394::38.3::0::12.3
+Pato sem pele, assado com margarina::276::14.6::0::36.2
+Pato sem pele, cru::133::6.2::0::19.3
+Pato sem pele, estufado com margarina::232::13.7::0::27.2
+Pé de porco, cru::335::20.4::0::38
+Peito de cabrito cru::116::3.8::0::20.5
+Peito de cabrito estufado com azeite e margarina::173::8.4::0.8::23.3
+Peito de cabrito estufado com azeite e óleo alimentar::176::8.8::0.7::23.3
+Peito de cabrito estufado com manteiga e óleo alimentar::173::8.4::0.8::23.3
+Peito de cabrito estufado com margarina e óleo alimentar::173::8.4::0.8::23.3
+Peito de cabrito estufado, sem molho::153::4.4::0::28.4
+Peito de cabrito grelhado::144::4.2::0::26.5
+Peito de carneiro gordo, cozido::333::26.6::0::23.3
+Peito de carneiro gordo, cru::396::36.5::0::16.8
+Peito de frango com pele, cozido::194::7.3::0::32.1
+Peito de frango com pele, cru::177::8.9::0::24.1
+Peito de frango com pele, estufado com azeite e margarina::189::10.3::1.7::22.1
+Peito de frango com pele, estufado com margarina::187::10::1.7::22.1
+Peito de frango com pele, estufado sem molho::212::8.3::0::34.4
+Peito de frango sem pele, cozido::148::1.1::0::34.5
+Peito de frango sem pele, cru::108::1.2::0::24.1
+Peito de frango sem pele, estufado com azeite e margarina ::124::3.3::1.7::21.4
+Peito de frango sem pele, estufado com margarina::121::3::1.7::21.4
+Peito de frango sem pele, estufado sem molho::169::2.5::0::36.6
+Peito de peru com pele, cru::134::4.7::0::23
+Peito de peru com pele, estufado com margarina::163::7.1::1.3::23.1
+Peito de peru sem pele, assado com margarina::175::6.4::0.1::28.9
+Peito de peru sem pele, cru::105::1.3::0::23.4
+Peito de peru sem pele, panado::226::9.9::8.4::25.5
+Peito de vitela magro cozido::171::8::0::24.8
+Peito de vitela magro cru::147::7.6::0::19.6
+Peito de vitela magro estufado::208::12.6::0.6::22.9
+Peito de vitela magro estufado com azeite e margarina::208::12.6::0.6::22.9
+Peito de vitela magro estufado com azeite, margarina e óleo alimentar::208::12.6::0.6::22.9
+Peito de vitela magro estufado com margarina e óleo alimentar::208::12.6::0.6::22.9
+Peito de vitela magro estufado, sem molho::179::8.3::0::26
+Peixe-espada-branco cru::117::4::0::20.3
+Peixe-espada-branco frito::159::6.3::2.9::22.7
+Peixe-espada-branco grelhado::123::4.7::0::20.2
+Peixe-espada-preto cru::88::2.8::0::15.7
+Peixe-espada-preto frito::259::16.6::3.2::24.2
+Peixe-espada-preto grelhado::111::3.2::0::20.5
+Peixinhos da horta::94::1.4::14.9::4
+Pepino cru::19::0.6::1.7::1.4
+Pera (5 variedades)::47::0.4::9.4::0.3
+Pera conserva em calda de açúcar::121::0.3::28.9::0.2
+Pera cozida com açúcar::67::0.4::14.5::0.3
+Pera cozida sem açúcar::40::0.4::7.8::0.3
+Pera cristalizada::285::0.1::69.8::0.2
+Pera desidratada::300::2.6::59.9::1.9
+Percebes crus::59::0.5::0::13.6
+Perdiz crua::104::1.3::0::23
+Perdiz estufada com margarina::212::11.4::0.7::24.7
+Perna de borrego no forno::168::7.6::0.4::21.9
+Perna de cabrito assada com azeite e margarina::180::10::0.2::21.7
+Perna de cabrito assada com óleo alimentar e margarina::180::10::0.2::21.7
+Perna de cabrito assada, sem molho::135::4.2::0::24.3
+Perna de cabrito crua::113::4::0::19.3
+Perna de carneiro gorda, assada, sem molho::285::20.9::0::24.3
+Perna de carneiro gorda, crua::276::22.2::0::19.1
+Perna de carneiro gorda, estufada sem molho::339::25.9::0::26.5
+Perna de carneiro magra assada com azeite e margarina::242::16.4::0::23.5
+Perna de carneiro magra assada com margarina::232::15.3::0::23.5
+Perna de carneiro magra, assada, sem molho::178::9::0::24.2
+Perna de carneiro magra, crua::130::5.6::0::19.8
+Perna de carneiro magra, estufada com azeite e margarina::201::13.4::1.7::17.4
+Perna de carneiro magra, estufada com margarina::193::12.5::1.7::17.4
+Perna de carneiro magra, estufada sem molho::195::10.3::0::25.6
+Perna de frango sem pele, cozida::147::2.3::0::31.5
+Perna de frango sem pele, crua::111::2.6::0::22
+Perna de frango sem pele, estufada com azeite e margarina::124::4.4::1.6::19.1
+Perna de frango sem pele, estufada com margarina ::121::4.1::1.6::19.1
+Perna de frango sem pele, estufada sem molho::180::5.4::0::32.9
+Perna de peru com pele, assada com margarina::212::12.5::0::24.4
+Perna de peru com pele, crua::149::8.1::0::18.9
+Perna de peru com pele, estufada com margarina::170::9.7::1.3::19.1
+Perna de porco gorda assada com azeite e margarina::353::28.2::0.2::22.4
+Perna de porco gorda assada com margarina::347::27.6::0.2::22.4
+Perna de porco gorda assada com óleo alimentar e margarina::353::28.2::0.2::22.4
+Perna de porco gorda assada, sem molho::283::19.2::0::27.6
+Perna de porco gorda crua::239::18.5::0::18.1
+Perna de porco gorda grelhada::287::20.6::0::25.5
+Perna de porco magra assada com azeite e margarina::245::14.6::0.2::26
+Perna de porco magra assada com margarina::239::14::0.2::26
+Perna de porco magra assada com óleo alimentar e margarina::244::14.5::0.2::26
+Perna de porco magra assada, sem molho::213::9.9::0::31
+Perna de porco magra crua::152::7.5::0::21
+Perna de porco magra estufada com azeite e banha::206::11.9::0.7::22.4
+Perna de porco magra estufada com azeite e margarina::203::11.6::0.7::22.4
+Perna de porco magra estufada com margarina::198::11.1::0.7::22.4
+Perna de porco magra estufada com óleo alimentar e banha::206::11.9::0.7::22.4
+Perna de porco magra estufada, sem molho::213::11::0::28.6
+Perna de porco magra grelhada::215::11.7::0::27.5
+Peru inteiro com pele, cru::137::6.1::0::20.5
+Pescada cozida (valor médio)::109::3.6::0::19.2
+Pescada crua (valor médio)::83::1.4::0::17.6
+Pescada da África do Sul cozida::110::3.8::0::18.9
+Pescada da África do Sul crua::81::1.3::0::17.2
+Pescada da África do Sul frita::175::8.4::1.7::23.2
+Pescada do Chile cozida::108::3.3::0::19.5
+Pescada do Chile crua::86::1.5::0::18
+Pescada do Chile frita::171::8.8::2.6::20.3
+Pescada europeia cozida::114::3.7::0::20.1
+Pescada europeia crua::75::0.8::0::17
+Pescada europeia frita::164::7.9::1.4::21.7
+Pescada frita (valor médio)::173::8.6::2.1::21.7
+Pêssego (2 variedades)::44::0.3::8.1::0.6
+Pêssego, conserva em calda de açúcar::86::0.1::20.6::0.2
+Picanha grelhada::194::11.9::0::21.7
+Picles de pepino::74::0.5::16.5::0.5
+Pimenta branca::306::2.1::48.3::10.4
+Pimenta moída::273::2.7::38.3::10.7
+Pimenta preta::302::3.3::44.5::10.7
+Pimento cru::27::0.6::2.7::1.6
+Pimento grelhado::37::0.6::3.7::2.7
+Pinhão, miolo::622::51.7::5::33.2
+Pistácio torrado e salgado::616::53::12.6::18
+Pistácio torrado, sem sal::616::53::12.6::18
+Pizza de queijo e tomate::271::10.1::33.2::10.5
+Pizza de queijo, tomate e fiambre::281::12.5::29.2::11.7
+Pó achocolatado com alto teor de gordura::428::10.6::70.6::12
+Pó achocolatado com baixo teor de gordura::395::2.5::86.2::6.5
+Polvo cozido sem sal::103::1.3::0::22.7
+Polvo cru::73::1.2::0::15.6
+Pombo cru::232::16.7::0::20.3
+Pota crua::75::1.1::0::16.3
+Preparado fermentado à base de soja (Vegurte)::59::2.4::5.9::3
+Presunto::215::12.8::0::25
+Proteína texturizada de soja::327::1.4::17.2::53
+Pudim de leite e ovos::246::4.7::44.8::6.1
+Pudim flan caseiro::211::4.5::36.3::6.2
+Pudim instantâneo em pó::412::9.4::79.4::2
+Pudim instantâneo preparado com leite magro::104::1.9::18.3::3.2
+Pudim instantâneo preparado com leite meio gordo::113::3::18.3::3.1
+Pulmões de porco, crus::101::5::0.2::13.9
+Puré de batata::126::5.2::16.8::2.3
+Queijada de queijo fresco::301::4.7::56.7::7.5
+Queijada de queijo magro::292::4.7::55.4::6.7
+Queijada de requeijão::311::13.1::40.8::7.2
+Queijo Brie::321::27.3::0::18.8
+Queijo Camembert::254::19.6::0.2::19.2
+Queijo Cheddar::419::34.9::0.1::25.4
+Queijo creme para barrar::263::22::6.9::9.3
+Queijo creme para barrar, alto teor polinsaturados::263::22::6.9::9.3
+Queijo da Ilha::358::25.7::0.2::31.5
+Queijo de Azeitão::313::25::0.1::21
+Queijo de Évora::417::33.5::1.3::26.3
+Queijo Emmental::384::29.7::0::28.9
+Queijo flamengo::282::18.7::0.2::28
+Queijo flamengo 30% gordura::247::14::0.2::30
+Queijo flamengo 45% gordura::316::23.4::0.2::26
+Queijo fresco açucarado com sabor a fruta::110::3.6::11.6::7.3
+Queijo fresco de cabra::182::13.8::2.1::12
+Queijo fresco de ovelha::286::22.9::0.1::19
+Queijo fresco magro::91::1.8::5.7::13
+Queijo fresco meio gordo::156::11.9::2.7::9.2
+Queijo fundido 40% gordura::326::25.7::0.2::22.5
+Queijo Gouda::380::30.6::0::25.3
+Queijo Gruyere::415::33.3::1.4::27.2
+Queijo Mascarpone::458::47::0.3::7.6
+Queijo Mozzarella fresco::256::19.5::1.3::18.7
+Queijo Parmesão::406::27.8::0.1::37.7
+Queijo Quark açucarado magro com sabor a fruta::78::0.1::10.8::8.4
+Queijo Quark natural magro::60::0.3::4::10.3
+Queijo Quark natural meio gordo::125::8.5::3.9::8.1
+Queijo Raclette::354::27.8::0.4::25.5
+Queijo Roquefort::372::31.5::0.2::22
+Queijo Serpa::335::25.7::0.3::24.8
+Queijo Serra da Estrela::333::27::0.2::21
+Queijo Serra da Estrela, velho::389::31.5::0.2::25.5
+Queque::408::18.2::53.8::6.7
+Quiabo cru::36::1::3::2.8
+Quiche de espinafres::275::19.1::12.4::12.6
+Quiche de vegetais::302::22.2::12.9::11.9
+Quiche lorraine::374::24.5::23.5::14.4
+Quivi, "Kiwi"::60::0.5::10.9::1.1
+Quivi, "Kiwi" desidratado::333::2.8::60.6::6.1
+Rabanada::294::16.6::31.3::4.7
+Rabanete cru::15::0.2::1.9::1
+Rábano cru::88::0.7::10.7::6
+Raia crua::58::0.2::0::14.1
+Rancho com carne de galinha, porco e vaca::84::3.9::6.5::5.1
+Rancho com carne de porco::107::6.2::6.8::4.8
+Rebentos de alfalfa crus::29::0.7::0.3::4
+Rebentos de bambu crus::20::0.3::1::3.1
+Rebentos de soja crus::98::3.9::5.8::9.2
+Rebuçados::381::0::95::0.3
+Requeijão::168::12::4.6::10.5
+Requeijão 13% de proteína::187::12.7::5.1::13
+Requeijão 8% de proteína::150::11.3::4.1::8
+Rim de carneiro, cru::92::3::0::16.2
+Rim de carneiro, frito com margarina::205::12.9::0::22.3
+Rim de porco, cru::95::3::0::17
+Rim de porco, frito com margarina::206::12.4::0::23.6
+Rim de vaca, cru::92::2.2::0::18
+Rissol::280::13.4::31.8::7.3
+Rissol de camarão::211::8.6::26.6::6.1
+Rissol de carne com manteiga::238::14.1::19.8::7.3
+Rissol de carne com margarina::236::13.9::19.7::7.3
+Robalo assado com cebola, azeite, banha e manteiga::192::11.8::0.6::20.4
+Robalo cozido::182::10.9::0::21
+Robalo cru::106::3.5::0::18.5
+Robalo grelhado::209::13::0::23
+Rojões de carne gorda::244::19::0.8::14.9
+Rojões de carne magra::140::5.6::8.7::11.1
+Romã::60::0.4::12::0.4
+Rúcula crua::29::0.7::2.2::2.6
+Safio cru::109::4.2::0::17.7
+Sal::0::0::0::0
+Salada de alface e tomate temperada com azeite e vinagre::30::1.4::2.6::1.1
+Salada de atum::104::4.3::8.4::6.9
+Salada de bacalhau com grão::115::4.9::7.6::8.7
+Salada russa::116::9.3::5.6::1.4
+Salame::422::37.6::1.3::19.5
+Salmão cozido::273::21.1::0::20.7
+Salmão cru::262::21.9::0::16.2
+Salmão grelhado::309::23.7::0::23.8
+Salmonete cru::136::5.5::0.1::21.7
+Salpicão::412::36.7::0::20.5
+Salsa fresca::20::0::0.4::3.1
+Salsa seca::244::7::14.5::15.8
+Salsicha de soja::252::20.9::0.6::13.5
+Salsicha fresca crua::210::16.4::0::15.5
+Salsicha fresca estufada com couve e azeite::140::11.6::1.1::7.2
+Salsicha fresca estufada com legumes e azeite::121::8.9::3.7::5.9
+Salsicha tipo Frankfurt::178::14.7::2.4::9
+Salsicha tipo Frankfurt frita (escorrido o óleo) sem adição de sal::201::16.5::2.8::10.2
+Salsicha tipo Frankfurt grelhada sem adição de sal::211::16.7::3.2::12
+Sangue de porco, cru::72::0.4::0.4::16.6
+Sapateira crua::104::2.9::0::19.5
+Sarda cozida::174::10.6::0::19.7
+Sarda crua::181::11.7::0::19
+Sarda grelhada::191::11.2::0::22.5
+Sardinha frita::300::19.4::8.7::22.5
+Sardinha gorda crua::221::16.4::0::18.4
+Sardinha gorda frita::247::15.6::3.5::23
+Sardinha gorda grelhada::211::12.3::0::25
+Sardinha meio gorda conserva em água, sem espinha e sem pele::174::9.6::0::22
+Sardinha meio gorda conserva em azeite::204::12::0::24
+Sardinha meio gorda conserva em azeite (escorrido)::186::9::0::26.3
+Sardinha meio gorda crua::158::9.1::0::18.9
+Sardinha meio gorda frita::174::10.2::0.5::20
+Sardinha meio gorda grelhada::168::7.2::0::25.9
+Seitan::139::1.7::5.4::25
+Sementes de abóbora::574::45.6::13.9::24.4
+Sementes de cânhamo secas::424::27.9::2.4::29.5
+Sementes de chia::456::34.4::4.6::14.4
+Sementes de coentro::358::17.8::16.2::12.4
+Sementes de girassol::587::47.5::17::19.8
+Sementes de linhaça cruas::487::31::18.1::25
+Sementes de melão::590::47.7::9::28.5
+Sementes de mostarda::449::28.8::15.9::25.5
+Sementes de papoila::565::45.9::13.7::19.3
+Sementes de sésamo::620::55::6.4::22.1
+Sêmola de milho::350::1.1::73.8::8.8
+Shortening para pastelaria::878::97.5::0::0
+Shortening para restaurante::900::100::0::0
+Sidra (vinho de maçã)::48::0::2.3::0
+Sobremesa à base de soja::95::1.8::15.8::3.5
+Soja cozida sem sal::151::7.5::5.6::12.5
+Soja, farinha com baixo teor de gordura::314::2.6::21.8::44
+Soja, grão seco, cru::407::19.3::18.3::32.8
+Solha crua::90::1.6::0::19
+Solha frita::147::2::8.9::23
+Solha grelhada::104::1.8::0::21.9
+Sonhos::389::26.2::29.2::8.7
+Sopa à lavrador::51::1.5::7.6::1.2
+Sopa, caldo verde::43::1.7::5.3::1.3
+Sopa, canja de galinha::40::0.9::5.8::2
+Sopa, creme de cenoura::34::1.4::4.4::0.6
+Sopa de abóbora::33::1.5::4::0.6
+Sopa de agrião::37::1.6::4.2::1
+Sopa de agrião com leite::33::0.5::5.3::1.3
+Sopa de agrião com requeijão::28::1.6::2::1.1
+Sopa de carne de porco::60::0.9::7.3::4
+Sopa de cebola::40::1.5::5.4::0.8
+Sopa de cenoura::29::0.6::4.4::0.9
+Sopa de couve-branca::40::1.5::5.4::0.8
+Sopa de couve-lombarda::41::1.5::5.3::0.9
+Sopa de cozido::36::1.4::2.9::2.6
+Sopa de ervilhas::48::1.5::6.4::1.6
+Sopa de espinafres::39::1.6::4.8::1
+Sopa de espinafres com ovos::93::6.9::4.7::2.5
+Sopa de favas::49::1.5::6.4::1.8
+Sopa de feijão::51::2.1::4.1::2.5
+Sopa de feijão-branco com couve-portuguesa::47::1.3::4.9::2.5
+Sopa de feijão-manteiga::46::0.4::8.7::1.2
+Sopa de feijão-manteiga com couve-lombarda::43::1.8::3.5::2.1
+Sopa de feijão-verde::32::1.5::3.5::0.7
+Sopa de feijão-verde e cenoura::42::1.5::5.8::0.9
+Sopa de feijão-verde e nabo::36::1.9::3.4::0.7
+Sopa de grão à moda da avó::107::2.3::15.1::4.7
+Sopa de grão com arroz, espinafres e coentros::45::1.3::5.3::2.1
+Sopa de grão com espinafres ::60::2.1::7::2.4
+Sopa de grão com espinafres sem arroz::55::2.3::5.1::2.6
+Sopa de nabiças (ou de grelos de nabo)::40::1.2::5.8::1
+Sopa de peixe ::17::0.6::1.3::1.3
+Sopa de peixe com massa::46::1.1::5.8::2.8
+Sopa de tomate::31::0.8::4.4::1.1
+Sopa de vegetais::11::0.2::1.2::0.8
+Sopa juliana::31::0.9::4.3::0.9
+Sopa, puré de feijão::43::1.6::4.5::1.6
+Sopa, puré de vegetais::42::1.5::5.5::1
+Sucedâneo de café (pó) (2 marcas)::375::3.4::81::5
+Sucedâneo de café (pó) com 20% de café::359::2.8::77::6.5
+Sultanas::304::0.4::69.4::2.7
+Sumo de ananás, 100%::42::0.1::9.5::0.2
+Sumo de ananás, concentrado::265::0::64.7::0
+Sumo de laranja, 100% ::42::0.1::9.5::0.3
+Sumo de laranja, concentrado::272::0.7::64.9::0.1
+Sumo de limão, fresco (espremido)::25::0::1.5::0.3
+Sumo de maçã, 100%::43::0.1::9.9::0.1
+Sumo de pêssego, 100%::50::0.1::11.5::0.2
+Sumo de tomate, 100%::21::0::3.5::1.1
+Tahini ::619::58.9::0.9::18.5
+Tâmara fresca ::147::0.1::33.2::1.2
+Tâmara seca::298::0.3::67.3::2.5
+Tamarilho sem pele::16::0.3::0::2
+Tamarindo cru::242::0.3::54.9::2.3
+Tamboril cru::73::0.2::0::17.9
+Tamboril grelhado::88::0.3::0::21.4
+Tângera::41::0.1::7.8::0.7
+Tangerina::44::0.1::8.7::0.7
+Tapioca::356::0.2::87.5::0.3
+Tarte de maçã::200::8::29.3::1.8
+Tarte de maçã e pêssego::224::6.2::36.7::4.4
+Tisana, infusão de ervas::1::0::0.2::0
+Tofu frito com azeite::108::7.6::1.1::8.7
+Tofu frito com óleo de milho::108::7.6::1.1::8.7
+Tofu simples::77::4.4::0.7::8.5
+Tomate cherry cru::30::0.8::4::1
+Tomate concentrado::82::0.3::14.3::3.7
+Tomate cru::23::0.3::3.5::0.8
+Tomate em conserva ao natural::21::0.3::3.2::1
+Tomilho fresco::52::1.2::7.4::1.5
+Tomilho seco::321::7.4::45.3::9.1
+Toranja::36::0.1::6::0.9
+Torta de chocolate e chantilly::369::23.9::29.6::8
+Tosta de trigo::377::4.2::69.7::12.5
+Tosta de trigo integral::373::5.1::62.6::15.4
+Tosta de trigo sem sal::379::3.8::72.7::11.3
+Tosta de trigo simples::379::3.8::72.7::11.3
+Toucinho de porco entremeado fresco, cru::682::72::0::8.4
+Toucinho de porco entremeado fresco, grelhado sem adição de sal::676::67.9::0::16.1
+Toucinho  de porco entremeado ligeiramente salgado, cozido sem adição de sal::372::33.9::0::16.7
+Toucinho de porco entremeado ligeiramente salgado, cru::506::50.1::0::13.7
+Toucinho de porco entremeado magro::333::29.1::0.5::17.4
+Tremoço, cozido e salgado::126::2.4::7.2::16.4
+Tremoço cozido, sem sal::124::2.4::7.2::16
+Trigo Sarraceno (grão) cru::337::2.5::61.3::12.4
+Tripa de porco fresca::180::16.6::0::7.6
+Tripa de vaca crua::160::10.5::0.1::16.3
+Truta arco-íris crua::92::2.3::0::17.8
+Truta arco-íris grelhada::119::3.7::0::21.3
+Túbera (trufa) crua::77::0.3::14.5::3.3
+Uva branca (5 variedades)::78::0.5::17.3::0.3
+Uva (média, branca e tinta)::81::0.5::18::0.3
+Uva seca (passas)::294::0.7::67::1.8
+Uva tinta (5 variedades)::83::0.5::18.6::0.3
+Vaca assada::280::20.4::0::24.2
+Vaca assada com azeite e margarina::280::20.4::0::24.2
+Vaca assada com margarina::273::19.6::0::24.2
+Vaca assada com óleo alimentar e margarina::280::20.4::0::24.2
+Vaca assada, sem molho::192::9.4::0::26.9
+Vaca magra cozida::259::13.8::0::33.7
+Vaca magra estufada::226::14.2::1.2::21.8
+Vaca magra estufada à jardineira::111::4.4::11.4::5.5
+Vaca magra estufada com azeite e margarina::226::14.2::1.2::21.8
+Vaca magra estufada com margarina::220::13.6::1.2::21.8
+Vaca magra estufada com óleo alimentar e margarina::226::14.2::1.2::21.8
+Vaca magra estufada, sem molho::234::12::0::31.5
+Vaca meio gorda estufada::278::20.2::1.2::21.4
+Vaca meio gorda estufada com azeite e margarina::278::20.2::1.2::21.4
+Vaca meio gorda estufada com margarina::273::19.6::1.2::21.4
+Vaca meio gorda estufada com óleo alimentar e margarina::278::20.2::1.2::21.4
+Vaca meio gorda estufada, sem molho::280::17::0::31.8
+Vaca para assar crua::174::10.7::0::19.4
+Vaca para cozer ou estufar magra crua::175::9.8::0::21.7
+Vaca para cozer ou estufar meio gorda crua::227::15.8::0::21.3
+Veado cru::112::3.3::0::20.6
+Vieira, crua::83::1::0::18.5
+Vinagre::22::0::0.6::0.3
+Vinho espumante doce::110::0::12::0.1
+Vinho espumante extra bruto::69::0::0.1::0.1
+Vinho espumante meio Seco::80::0::4.2::0.1
+Vinho espumante seco::74::0::2.6::0.1
+Vinho generoso da Madeira::156::0::9::0.2
+Vinho generoso do Porto, doce::165::0::14::0.1
+Vinho generoso do Porto, meio seco::138::0::6.5::0.1
+Vinho generoso do Porto, seco::135::0::4::0.1
+Vinho maduro branco::72::0::1.2::0.1
+Vinho maduro palhete::65::0::0.1::0.1
+Vinho maduro tinto::66::0::0.2::0.1
+Vinho rosé::72::0::2.4::0.2
+Vinho verde branco::59::0::0.1::0
+Vinho verde tinto::57::0::0.3::0
+Wasabi, raiz crua::100::0.6::15.8::4.8
