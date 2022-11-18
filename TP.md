@@ -1,5 +1,9 @@
 ## Trabalho Prático
 
+Deve ser feito em grupos de 2 elementos.
+
+Entrega: 20 Janeiro (código + relatório)
+
 # Lista telefónica
 
 Este trabalho prático consiste em criar uma ferramenta para gerir uma lista de contactos.
