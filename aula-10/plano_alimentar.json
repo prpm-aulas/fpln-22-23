@@ -1,0 +1,43 @@
+{
+	"idade": 25,
+	"sexo": "M",
+	"peso": 80,
+	"altura": 1.75,
+	"pal": 1.4,
+
+	"pequeno-almoço": [
+		[1, "pão de trigo", 90],
+		[1, "queijo flamengo", 15],
+		[1, "maçã com casca", 140],
+		[1, "leite meio gordo, UHT", 250]
+	],
+
+	"almoço": [
+		[1, "sopa de vegetais", 150],
+		[1, "brócolos cozidos", 125],
+		[1, "bife de vaca, grelhado", 125],
+		[1, "arroz cozido", 160],
+		[1, "azeite (4 marcas)", 10],
+		[1, "banana", 100]
+	],
+
+	"lanche": [
+		[1, "iogurte magro natural", 125],
+		[1, "pera (5 variedades)", 140],
+		[4, "noz", 20],
+	],
+
+	"jantar": [
+		[1, "sopa juliana", 150],
+		[1, "pescada cozida", 150],
+		[1, "batata cozida", 180],
+		[1, "cenoura cozida", 80],
+		[1, "azeite (4 marcas)", 10],
+		[1, "laranja (3 variedades)", 150]	
+	]
+}
+
+
+
+
+
