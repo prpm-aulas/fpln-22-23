@@ -1,0 +1,52 @@
+# exemplo de contactos, 1 por linha
+1::Pedro Moura::999999999, 888888888, 777777777
+2::Conceição Lopes::111111111, 222222222
+
+# json
+[
+    {
+        "id": 1,
+        "nome": "Pedro Moura",
+        "numeros": [
+            "999999999",
+            "888888888",
+            "777777777"
+        ]
+    },
+    {
+        ...
+    }
+]
+
+
+# yaml
+contactos:
+    - id: 1
+      nome: Pedro Moura
+      numeros:
+        - 999999999
+        - 777777777
+        - 888888888
+    
+    - id: 2
+      nome: Conceição Lopes
+      ...
+
+
+# xml
+<contactos>
+    <contacto>
+        <id>1</id>
+        <nome>Pedro Moura</nome>
+        <numeros>
+            <numero>999999999</numero>
+            <numero>888888888</numero>
+            <numero>777777777</numero>
+        </numeros>
+    </contacto>
+        
+    <contacto>
+        <id>2</id>
+        ....
+    </contacto>
+</contactos>
