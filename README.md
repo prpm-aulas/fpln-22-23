@@ -92,60 +92,69 @@ Pedro Moura ([pedrorpmoura@gmail.com](mailto:pedrorpmoura@gmail.com))
 **Aula 03 - 07/10/2022**
 
 - Estruturas cíclicas (ciclo _while_)
+- Continuação da criação do gerador de ficheiros.
 
 
 
 **Aula 04 - 14/10/2022**
 
-- TBA
+- Estruturas de dados (listas)
+- Continuação da criação do gerador de ficheiros.
 
 
 
 **Aula 05 - 21/10/2022**
 
-- TBA
+- Funções
+- Importação de ficheiros
+- Continuação da criação do gerador de ficheiros.
 
 
 
 **Aula 06 - 28/10/2022**
 
-- TBA
+- Estruturas de dados (dicionários)
+- Leitura e escrita de ficheiros
+- Criação de um processador, que recebendo um texto como _input_ desenha uma nuvem de palavras.
 
 
 
 **Aula 07 - 04/11/2022**
 
-- TBA
+- Continuação da criação de um processador, permitindo agora desenhar gráficos com informações relativas ao texto.
 
 
 
 **Aula 08 - 11/11/2022**
 
-- TBA
+- Processamento de ficheiros (JSON)
+- Criação de uma ferramenta CLI, que fornece informações meteorológicas relativas à semana.
 
 
 
 **Aula 09 - 18/11/2022**
 
-- TBA
+- Continuação da ferramenta meteorológica.
 
 
 
 **Aula 10 - 25/11/2022**
 
-- TBA
+- Processamento de ficheiros.
+- Criação de uma ferramenta que permite extrair informações acerca de um plano alimentar.
 
 
 
 **Aula 11 - 02/12/2022**
 
-- TBA
+- Introdução às expressões regulares.
+- Pesquisa por padrões num dataset de texto.
 
 
 
 **Aula 12 - 09/12/2022**
 
-- TBA
+- Esclarecimento de dúvidas relativas ao trabalho prático.
 
 
 
