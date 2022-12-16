@@ -162,7 +162,7 @@ Pedro Moura ([pedrorpmoura@gmail.com](mailto:pedrorpmoura@gmail.com))
 
 **Aula 13 - 16/12/2022**
 
-- TBA
+- Teste Modelo + Resolução
 
 
 
