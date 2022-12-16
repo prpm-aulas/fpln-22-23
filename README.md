@@ -40,6 +40,8 @@ Pedro Moura ([pedrorpmoura@gmail.com](mailto:pedrorpmoura@gmail.com))
 | MMC       | pg49182    | Rui Silva                         | pg49182@alunos.uminho.pt |
 | MMC       | pg49168    | Bárbara Silva                     | pg49168@alunos.uminho.pt |
 | MMC       | pg48642    | Piedoso Cavamba                   | pg48642@alunos.uminho.pt |
+| MMC       | pg49178    | Irene Gonçalves                   | pg49178@alunos.uminho.pt |
+| MMC       | pg50946    | João Pedro Borges Faria           | pg50946@alunos.uminho.pt |
 |           |            |                                   |                          |
 | MHD       | pg51176    | Ana Filipa Oliveira Santana       | pg51176@alunos.uminho.pt |
 | MHD       | pg51177    | Carlos Henrique de Souza Arantes  | pg51177@alunos.uminho.pt |
