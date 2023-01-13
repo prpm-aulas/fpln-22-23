@@ -168,7 +168,7 @@ Pedro Moura ([pedrorpmoura@gmail.com](mailto:pedrorpmoura@gmail.com))
 
 **Aula 14 - 06/01/2023**
 
-- TBA
+- Esclarecimento de dúvidas para o teste.
 
 
 
@@ -185,5 +185,5 @@ Teste (50%) - 13 Janeiro
 Trabalho Prático (50%) - 20 Janeiro
 
 
-**As notas podem ser consultadas na seguinte folha de cálculo:** https://docs.google.com/spreadsheets/d/1q-N2k9KBGKvUTOFnbussX-FoIAtLozuUo5SZepy43Po/edit?usp=sharing
+**As notas podem ser consultadas [aqui](https://docs.google.com/spreadsheets/d/1q-N2k9KBGKvUTOFnbussX-FoIAtLozuUo5SZepy43Po/edit?usp=sharing).**
 
