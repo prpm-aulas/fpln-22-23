@@ -1,0 +1,16 @@
+[
+	{
+		"numero": "PG41094",
+		"nome": "Pedro Moura",
+		"idade": 22,
+		"curso": "MEI",
+		"trabalhador_estudante": true
+	},
+	{
+		"numero": "A82258",
+		"nome": "Rafael Paiva",
+		"idade": 19,
+		"curso": "LCC",
+		"trabalhador_estudante": false
+	}
+]
